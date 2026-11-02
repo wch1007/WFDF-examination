@@ -18,6 +18,11 @@ test('题库结构、真实引用、所有最末级条款覆盖', () => {
     assert.equal(new Set(q.options).size, 4, q.id);
     assert.ok(Number.isInteger(q.answer) && q.answer >= 0 && q.answer < 4, q.id);
     assert.ok(q.refs.length > 0 && q.refs.every(r => known.has(r)), q.id);
+    if (q.termNotes) {
+      assert.ok(Array.isArray(q.termNotes), q.id);
+      assert.equal(new Set(q.termNotes.map(note => note.term.toLowerCase())).size, q.termNotes.length, q.id);
+      assert.ok(q.termNotes.every(note => note.term.trim() && note.text.trim()), q.id);
+    }
   }
   const leafRules = [...known].filter(id => ![...known].some(other => other.startsWith(id + '.')));
   assert.deepEqual(leafRules.filter(id => !covered.has(id)), []);
