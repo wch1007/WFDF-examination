@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#173d35">
+  <meta name="description" content="依据 WFDF 2025–2028 主规则制作的中文飞盘规则情境考试。每次随机 25 题，覆盖全部 20 章，交卷后查看分数、解析及规则依据。">
+  <title>场上见 · WFDF 规则考试</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a href="#main" class="skip-link">跳到主要内容</a>
+  <header class="site-header">
+    <a class="brand" href="#home" aria-label="场上见，返回首页"><span class="brand-mark" aria-hidden="true">↗</span><span>场上见<small>ULTIMATE RULES LAB</small></span></a>
+    <nav aria-label="主导航"><a href="#home" data-nav="home">规则考试</a><a href="#rules" data-nav="rules">查阅规则</a><a href="#history" data-nav="history">考试记录</a></nav>
+    <span class="edition">WFDF 2025–2028</span>
+  </header>
+  <main id="main" tabindex="-1"><div class="loading">正在加载规则与题库…</div></main>
+  <footer class="site-footer"><span>以规则为共同语言。以飞盘精神，让比赛继续。</span><span>独立学习工具 · 非 WFDF 官方认证考试<br><a href="https://rules.wfdf.sport/wp-content/uploads/2024/12/WFDF-Rules-of-Ultimate-2025-2028.pdf" target="_blank" rel="noopener">WFDF 官方主规则</a> · <a href="#about">版本与来源</a></span></footer>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <dialog id="confirm-dialog" aria-labelledby="dialog-title"><h2 id="dialog-title"></h2><p id="dialog-text"></p><div class="dialog-actions"><button id="dialog-cancel" class="button secondary">继续答题</button><button id="dialog-confirm" class="button primary">确认交卷</button></div></dialog>
+  <dialog id="rule-dialog" aria-labelledby="rule-dialog-title"><div class="dialog-heading"><h2 id="rule-dialog-title">规则依据</h2><button id="close-rule" class="icon-button" aria-label="关闭规则依据">×</button></div><div id="rule-dialog-content"></div></dialog>
+</body>
+</html>

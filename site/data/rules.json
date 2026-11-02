@@ -1,0 +1,2573 @@
+{
+  "edition": "2025-2028",
+  "effectiveDate": "2025-01-01",
+  "revision": "2026-11-02",
+  "source": "https://rules.wfdf.sport/wp-content/uploads/2024/12/WFDF-Rules-of-Ultimate-2025-2028.pdf",
+  "translationSource": "https://rules.wfdf.sport/wp-content/uploads/2025/10/01-WFDF世界飞盘联合会飞盘规则（2025-2028）中文版.pdf",
+  "license": "CC BY 4.0",
+  "introduction": [
+    "Ultimate（团队飞盘）是一项使用飞盘进行的七人制团队运动。比赛场地为长方形，宽度约为足球场的一半，两端各设一个得分区。每队的目标是让队员在本队进攻的得分区内接住传盘而得分。持盘队员不得持盘跑动，但可以将飞盘向任意方向传给任意队友。任何时候传盘不成功，就会发生攻防转换；另一队应建立盘权，并尝试向相反方向的得分区进攻得分。比赛通常以先得 15 分为目标，或持续约 100 分钟。Ultimate 是一项自我裁判、无身体接触的运动。Spirit of the Game（飞盘精神）指导队员如何自我裁判以及在场上的行为。",
+    "许多规则具有一般性，适用于大多数情况；但有些规则针对特定情形制定，并优先于一般规则。",
+    "可根据特殊比赛、参赛人数、队员年龄或可用场地，对基本结构和规则作出调整。世界飞盘联合会（World Flying Disc Federation，WFDF）特定类型赛事适用的附加规则，请参阅相应的 Appendix（附录）。"
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "title": "飞盘精神",
+      "english": "Spirit of the Game"
+    },
+    {
+      "id": 2,
+      "title": "比赛场地",
+      "english": "Playing Field"
+    },
+    {
+      "id": 3,
+      "title": "比赛装备",
+      "english": "Equipment"
+    },
+    {
+      "id": 4,
+      "title": "回合、得分与比赛",
+      "english": "Point, Goal and Game"
+    },
+    {
+      "id": 5,
+      "title": "队伍",
+      "english": "Teams"
+    },
+    {
+      "id": 6,
+      "title": "开始比赛",
+      "english": "Starting a Game"
+    },
+    {
+      "id": 7,
+      "title": "开盘",
+      "english": "The Pull"
+    },
+    {
+      "id": 8,
+      "title": "比赛状态",
+      "english": "State of Play"
+    },
+    {
+      "id": 9,
+      "title": "读秒",
+      "english": "Stall Count"
+    },
+    {
+      "id": 10,
+      "title": "验盘",
+      "english": "The Check"
+    },
+    {
+      "id": 11,
+      "title": "出界",
+      "english": "Out-of-Bounds"
+    },
+    {
+      "id": 12,
+      "title": "接盘队员与位置",
+      "english": "Receivers and Positioning"
+    },
+    {
+      "id": 13,
+      "title": "攻防转换",
+      "english": "Turnovers"
+    },
+    {
+      "id": 14,
+      "title": "得分",
+      "english": "Scoring"
+    },
+    {
+      "id": 15,
+      "title": "示意犯规、违规及违例",
+      "english": "Calling Fouls, Infractions and Violations"
+    },
+    {
+      "id": 16,
+      "title": "示意后的继续比赛",
+      "english": "Continuation after a Call"
+    },
+    {
+      "id": 17,
+      "title": "犯规",
+      "english": "Fouls"
+    },
+    {
+      "id": 18,
+      "title": "违规与违例",
+      "english": "Infractions and Violations"
+    },
+    {
+      "id": 19,
+      "title": "安全中断",
+      "english": "Safety Stoppages"
+    },
+    {
+      "id": 20,
+      "title": "暂停",
+      "english": "Time-Outs"
+    }
+  ],
+  "rules": [
+    {
+      "id": "1.1",
+      "chapter": 1,
+      "text": "团队飞盘是一项无身体接触、自我裁判的运动。所有队员都有责任执行并遵守规则。团队飞盘依靠“飞盘精神”，将公平竞争的责任赋予每一位队员。",
+      "original": "Ultimate is a non-contact, self-officiated sport. All players are responsible for administering and adhering to the rules. Ultimate relies upon a Spirit of the Game that places the responsibility for fair play on every player."
+    },
+    {
+      "id": "1.2",
+      "chapter": 1,
+      "text": "规则以队员不会故意违反规则为前提。因此，对无意违反规则的行为不施加严厉处罚，而是尽可能按照未发生该行为时最可能出现的情形恢复比赛。",
+      "original": "It is trusted that no player will intentionally break the rules; thus there are no harsh penalties for inadvertent breaches, but rather a method for resuming play in a manner which simulates what would most likely have occurred had there been no breach."
+    },
+    {
+      "id": "1.2.1",
+      "chapter": 1,
+      "text": "如果发生故意或严重违反规则或飞盘精神的行为，双方队长应展开讨论并确定适当的处理结果，即使该结果并不符合具体规则。",
+      "original": "If there is a deliberate or egregious breach of the rules or Spirit of the Game, the captains should discuss this and determine an appropriate outcome, even if that outcome is not in accordance with a specific rule."
+    },
+    {
+      "id": "1.3",
+      "chapter": 1,
+      "text": "在处理队伍之间的争议时，队员实际上承担裁判职责。因此，队员必须做到：",
+      "original": "Players should be mindful of the fact that they are acting as referees in any arbitration between teams. Players must:"
+    },
+    {
+      "id": "1.3.1",
+      "chapter": 1,
+      "text": "熟悉并遵守规则及规则的精神。",
+      "original": "know and abide by both the rules and the spirit of the rules;"
+    },
+    {
+      "id": "1.3.2",
+      "chapter": 1,
+      "text": "公正客观。",
+      "original": "be fair-minded and objective;"
+    },
+    {
+      "id": "1.3.3",
+      "chapter": 1,
+      "text": "诚实。",
+      "original": "be truthful;"
+    },
+    {
+      "id": "1.3.4",
+      "chapter": 1,
+      "text": "清晰简练地阐明自己的观点。",
+      "original": "explain their viewpoint clearly and briefly;"
+    },
+    {
+      "id": "1.3.5",
+      "chapter": 1,
+      "text": "给对手发言的机会。",
+      "original": "allow opponents an opportunity to speak;"
+    },
+    {
+      "id": "1.3.6",
+      "chapter": 1,
+      "text": "倾听并考虑对手的观点。",
+      "original": "listen to and consider opponent’s viewpoint;"
+    },
+    {
+      "id": "1.3.7",
+      "chapter": 1,
+      "text": "使用尊重的语言和肢体表达，并考虑潜在的文化差异。",
+      "original": "use respectful words and body language with consideration of potential cultural differences;"
+    },
+    {
+      "id": "1.3.8",
+      "chapter": 1,
+      "text": "高效解决争议。",
+      "original": "resolve disputes efficiently;"
+    },
+    {
+      "id": "1.3.9",
+      "chapter": 1,
+      "text": "在整场比赛中以一致的方式进行示意。",
+      "original": "make calls in a consistent manner throughout the game; and"
+    },
+    {
+      "id": "1.3.10",
+      "chapter": 1,
+      "text": "仅在违反规则的行为足以对该次比赛行动的结果造成影响，或有队员的安全受到威胁时，才作出示意。",
+      "original": "only make a call where a breach is significant enough to make a difference to the outcome of the action, or where a player’s safety is at risk."
+    },
+    {
+      "id": "1.4",
+      "chapter": 1,
+      "text": "鼓励高水平的竞技，但绝不能牺牲队员间的相互尊重、对共同约定的比赛规则的遵守、队员安全，或比赛本身的乐趣。",
+      "original": "Highly competitive play is encouraged, but should never sacrifice the mutual respect between players, adherence to the agreed-upon rules of the game, player safety or the basic joy of play."
+    },
+    {
+      "id": "1.5",
+      "chapter": 1,
+      "text": "以下是一些良好飞盘精神的示例：",
+      "original": "The following actions are some examples of good Spirit:"
+    },
+    {
+      "id": "1.5.1",
+      "chapter": 1,
+      "text": "在认为示意不正确时主动撤回示意。",
+      "original": "retracting a call when you no longer believe the call was correct;"
+    },
+    {
+      "id": "1.5.2",
+      "chapter": 1,
+      "text": "在有争议的互动之后，在场边与对手沟通。",
+      "original": "checking in with an opponent on the sideline after a contentious interaction;"
+    },
+    {
+      "id": "1.5.3",
+      "chapter": 1,
+      "text": "赞扬对手的优秀表现或良好的飞盘精神。",
+      "original": "complimenting an opponent for good play or Spirit;"
+    },
+    {
+      "id": "1.5.4",
+      "chapter": 1,
+      "text": "向对手做自我介绍。",
+      "original": "introducing yourself to your opponent; and"
+    },
+    {
+      "id": "1.5.5",
+      "chapter": 1,
+      "text": "冷静地应对分歧或挑衅。",
+      "original": "reacting calmly towards disagreement or provocation."
+    },
+    {
+      "id": "1.6",
+      "chapter": 1,
+      "text": "以下行为明显违反飞盘精神，必须避免：",
+      "original": "The following actions are clear violations of the Spirit of the Game and must be avoided:"
+    },
+    {
+      "id": "1.6.1",
+      "chapter": 1,
+      "text": "危险动作和攻击性行为。",
+      "original": "dangerous play and aggressive behaviour;"
+    },
+    {
+      "id": "1.6.2",
+      "chapter": 1,
+      "text": "故意犯规或其他故意违反规则的行为。",
+      "original": "intentional fouling or other intentional rule breaches;"
+    },
+    {
+      "id": "1.6.3",
+      "chapter": 1,
+      "text": "嘲讽或恐吓对手。",
+      "original": "taunting or intimidating opposing players;"
+    },
+    {
+      "id": "1.6.4",
+      "chapter": 1,
+      "text": "无礼的得分庆祝行为。",
+      "original": "celebrating disrespectfully after scoring;"
+    },
+    {
+      "id": "1.6.5",
+      "chapter": 1,
+      "text": "为了报复对手的示意而进行示意。",
+      "original": "making calls in retaliation to an opponent’s call;"
+    },
+    {
+      "id": "1.6.6",
+      "chapter": 1,
+      "text": "向对方队员喊话要求其传盘给自己。",
+      "original": "calling for a pass from an opposition player; and"
+    },
+    {
+      "id": "1.6.7",
+      "chapter": 1,
+      "text": "其他“为了获胜而不择手段”的行为。",
+      "original": "other win-at-all-costs behaviour."
+    },
+    {
+      "id": "1.7",
+      "chapter": 1,
+      "text": "队伍是飞盘精神的守护者，必须：",
+      "original": "Teams are guardians of the Spirit of the Game, and must:"
+    },
+    {
+      "id": "1.7.1",
+      "chapter": 1,
+      "text": "负责向队友教授规则和良好的飞盘精神。",
+      "original": "take responsibility for teaching their team the rules and good Spirit;"
+    },
+    {
+      "id": "1.7.2",
+      "chapter": 1,
+      "text": "约束飞盘精神欠佳的队友。",
+      "original": "discipline team-mates who display poor Spirit;"
+    },
+    {
+      "id": "1.7.3",
+      "chapter": 1,
+      "text": "向其他队伍提供建设性反馈，可以指出做得好的方面，也可以说明如何更好地遵守飞盘精神。",
+      "original": "provide constructive feedback to other teams about what they are doing well and/or how to improve their adherence to the Spirit of the Game; and"
+    },
+    {
+      "id": "1.7.4",
+      "chapter": 1,
+      "text": "酌情示意 Spirit Stoppage（飞盘精神中断），以处理飞盘精神方面的问题。",
+      "original": "call a Spirit Stoppage to address Spirit issues, as appropriate."
+    },
+    {
+      "id": "1.8",
+      "chapter": 1,
+      "text": "新手队员违反规则却不了解相关规则时，有经验的队员应帮助解释这一违反规则的行为。",
+      "original": "In the case where a novice player is involved in a breach and does not know the rules, experienced players should assist to explain the breach."
+    },
+    {
+      "id": "1.9",
+      "chapter": 1,
+      "text": "有经验的队员可以监督初学者或年轻队员的比赛，提供规则建议，并指导场上争议的处理。",
+      "original": "An experienced player, who offers advice on rules and guides on-field arbitration, may supervise games involving beginners or younger players."
+    },
+    {
+      "id": "1.10",
+      "chapter": 1,
+      "text": "示意应由直接涉及该次比赛行动的队员，以及当时视角最佳的队员讨论。",
+      "original": "Calls should be discussed by the players directly involved in the play, and by players who had the best perspective on the play."
+    },
+    {
+      "id": "1.10.1",
+      "chapter": 1,
+      "text": "如果一名非直接相关队员认为队友做出了错误的示意，或造成了犯规或违例，则应提醒其队友。",
+      "original": "If a player who was not directly involved believes that a team-mate has made an incorrect call, or caused a foul or violation, they should inform their team-mate."
+    },
+    {
+      "id": "1.10.2",
+      "chapter": 1,
+      "text": "除了队长之外的非场上队员应避免参与讨论，但场上队员可以寻求其他人的观点来澄清规则，并帮助队员做出适当的示意。",
+      "original": "Non-players, apart from the captains, should refrain from getting involved. However players may seek other peoples’ perspectives to clarify the rules, and to assist players to make the appropriate call."
+    },
+    {
+      "id": "1.11",
+      "chapter": 1,
+      "text": "所有示意仅由场上队员和队长负责作出和处理。",
+      "original": "Players and captains are solely responsible for making and resolving all calls."
+    },
+    {
+      "id": "1.12",
+      "chapter": 1,
+      "text": "讨论后仍无法达成一致，或无法明确判断以下任一事项时，飞盘必须交回最后一名无争议的持盘队员：",
+      "original": "If after discussion players cannot agree, or it is not clear and obvious:"
+    },
+    {
+      "id": "1.12.1",
+      "chapter": 1,
+      "text": "比赛中实际发生了什么。",
+      "original": "what occurred in a play, or"
+    },
+    {
+      "id": "1.12.2",
+      "chapter": 1,
+      "text": "比赛中最可能发生什么。",
+      "original": "what would most likely have occurred in a play, the disc must be returned to the last non-disputed thrower."
+    },
+    {
+      "id": "2.1",
+      "chapter": 2,
+      "text": "比赛场地为长方形区域，尺寸和区域如图1所示。场地应尽量平坦，无障碍物，并能为队员提供合理的安全保障。",
+      "original": "The playing field is a rectangular area with dimensions and zones as shown on Figure 1 and should be essentially flat, free of obstructions and afford reasonable player safety."
+    },
+    {
+      "id": "2.2",
+      "chapter": 2,
+      "text": "边界线围成比赛场地，由沿长度方向的两条边线和沿宽度方向的两条端线组成。",
+      "original": "The perimeter lines surround the playing field and consist of two (2) sidelines along the length and two (2) endlines along the width."
+    },
+    {
+      "id": "2.3",
+      "chapter": 2,
+      "text": "边界线不属于比赛场地的一部分。",
+      "original": "The perimeter lines are not part of the playing field."
+    },
+    {
+      "id": "2.4",
+      "chapter": 2,
+      "text": "得分线将中心区与得分区分隔开，且属于中心区的一部分。",
+      "original": "The goal lines are the lines that separate the central zone from the end zones and are part of the central zone."
+    },
+    {
+      "id": "2.5",
+      "chapter": 2,
+      "text": "砖点是中心区内两条长 1 米线段的交点。砖点与相邻得分线的距离等于得分区长度，且位于两条边线的中间。",
+      "original": "The brick marks are the intersection of two (2) crossed one (1) metre lines in the central zone, located a distance equal to the length of the end zone away from each goal line, midway between the sidelines."
+    },
+    {
+      "id": "2.6",
+      "chapter": 2,
+      "text": "八个颜色鲜艳的柔性物体（如塑料角标）用于标记中心区和得分区的角点。",
+      "original": "Eight brightly-coloured, flexible objects (such as plastic cones) mark the corners of the central zone and the end zones."
+    },
+    {
+      "id": "2.7",
+      "chapter": 2,
+      "text": "比赛场地紧邻的周边区域应保持无可移动物体。如果比赛受到边界线 3 米以内的非场上队员或物体妨碍，任何受到妨碍的场上队员或拥有盘权的持盘队员均可示意“Violation”。",
+      "original": "The immediate surroundings of the playing field shall be kept clear of movable objects. If play is obstructed by non-players or objects within three (3) metres of the perimeter line, any obstructed player or thrower in possession may call “Violation”."
+    },
+    {
+      "id": "3.1",
+      "chapter": 3,
+      "text": "比赛可使用双方队长都认可的飞盘。",
+      "original": "Any flying disc acceptable to both captains may be used."
+    },
+    {
+      "id": "3.2",
+      "chapter": 3,
+      "text": "WFDF 可以维护一份获认可并推荐使用的飞盘清单。",
+      "original": "WFDF may maintain a list of approved discs recommended for use."
+    },
+    {
+      "id": "3.3",
+      "chapter": 3,
+      "text": "队员必须穿着能够区分他们队伍的统一服装。",
+      "original": "Each player must wear a uniform that distinguishes their team."
+    },
+    {
+      "id": "3.4",
+      "chapter": 3,
+      "text": "任何队员不得穿戴可能伤害自己或他人，或妨碍对手比赛发挥的服装或装备。",
+      "original": "No player may wear items of clothing or equipment that reasonably could harm the wearer or other players, or impede an opponent's ability to play."
+    },
+    {
+      "id": "4.1",
+      "chapter": 4,
+      "text": "一场比赛由若干个回合组成。每个回合以得分结束。",
+      "original": "A game consists of a number of points. Each point ends with the scoring of a goal."
+    },
+    {
+      "id": "4.2",
+      "chapter": 4,
+      "text": "首先取得 15 分的队伍获胜，比赛结束。",
+      "original": "A game is finished and won by the first team to score fifteen (15) goals."
+    },
+    {
+      "id": "4.3",
+      "chapter": 4,
+      "text": "一场比赛分为两个阶段，称为两个半场。当一队首先取得 8 分时，进入中场休息。",
+      "original": "A game is separated into two (2) periods of play, called halves.  Half time occurs when a team first scores eight (8) goals."
+    },
+    {
+      "id": "4.4",
+      "chapter": 4,
+      "text": "每个半场开始时，该半场的第一个回合也同时开始。",
+      "original": "The first point of each half starts when the half starts."
+    },
+    {
+      "id": "4.5",
+      "chapter": 4,
+      "text": "得分后，如果比赛尚未分出胜负，且尚未到中场休息：",
+      "original": "After a goal is scored, and the game has not been won or half time has not been reached:"
+    },
+    {
+      "id": "4.5.1",
+      "chapter": 4,
+      "text": "下一个回合立即开始。",
+      "original": "the next point starts immediately;"
+    },
+    {
+      "id": "4.5.2",
+      "chapter": 4,
+      "text": "双方交换防守的得分区。",
+      "original": "the teams switch the end zone that they are defending; and"
+    },
+    {
+      "id": "4.5.3",
+      "chapter": 4,
+      "text": "得分队伍成为防守方，并进行下一回合开盘。",
+      "original": "the team that scored becomes defence and pulls next."
+    },
+    {
+      "id": "5.1",
+      "chapter": 5,
+      "text": "每队每回合上场人数为 5–7 人。",
+      "original": "Each team will put a maximum of seven (7) players and a minimum of five (5) players on the field during each point."
+    },
+    {
+      "id": "5.2",
+      "chapter": 5,
+      "text": "每支队伍必须指定一名队长和一名精神队长代表队伍。",
+      "original": "Each team must designate a captain and a spirit captain to represent the team."
+    },
+    {
+      "id": "5.3",
+      "chapter": 5,
+      "text": "得分后、本队示意准备好开盘前，可以不限次数地替换队员。",
+      "original": "A team may make unlimited substitutions after a goal is scored and before their team signals readiness for the pull."
+    },
+    {
+      "id": "5.4",
+      "chapter": 5,
+      "text": "混合组（Mixed）比赛应采用一种交替的 4:3 人员比例安排。",
+      "original": "For Mixed games, a form of an alternating 4:3 personnel ratio should be used."
+    },
+    {
+      "id": "6.1",
+      "chapter": 6,
+      "text": "双方代表公平地决定哪队先选择以下两项中的一项：",
+      "original": "Representatives of the two teams fairly determine which team first chooses either:"
+    },
+    {
+      "id": "6.1.1",
+      "chapter": 6,
+      "text": "首先接收开盘，还是首先掷出开盘。",
+      "original": "whether to receive or throw the initial pull; or"
+    },
+    {
+      "id": "6.1.2",
+      "chapter": 6,
+      "text": "首先防守哪一侧得分区。",
+      "original": "which end zone they will initially defend."
+    },
+    {
+      "id": "6.2",
+      "chapter": 6,
+      "text": "另一队决定剩余的一项。",
+      "original": "The other team is given the remaining choice."
+    },
+    {
+      "id": "6.3",
+      "chapter": 6,
+      "text": "下半场开始时，双方交换上述初始选择。",
+      "original": "At the start of the second half, these initial selections are switched."
+    },
+    {
+      "id": "6.4",
+      "chapter": 6,
+      "text": "混合组（Mixed）比赛中，两队应讨论便于识别人员对位关系的方法。",
+      "original": "For Mixed games, teams should discuss any strategies to make personnel match-ups easier to identify."
+    },
+    {
+      "id": "7.1",
+      "chapter": 7,
+      "text": "比赛开始、中场休息后或得分后，均由防守方掷出飞盘开始比赛，这次掷盘称为开盘（Pull）。",
+      "original": "At the start of the game, after half-time or after a score, play commences with a throw by the defence, called a “pull”."
+    },
+    {
+      "id": "7.1.1",
+      "chapter": 7,
+      "text": "各队必须准备好开盘，不得有不合理的拖延。",
+      "original": "Teams must prepare for the pull without unreasonable delay."
+    },
+    {
+      "id": "7.2",
+      "chapter": 7,
+      "text": "开盘队员和一名进攻队员都举手过头、示意本队准备就绪后，才可掷出开盘。",
+      "original": "The pull may be made only after both teams have signalled their readiness by having the puller and a player on offence raise a hand above their head."
+    },
+    {
+      "id": "7.3",
+      "chapter": 7,
+      "text": "示意准备就绪后，所有进攻队员必须一脚站在本队防守得分区的得分线上，并保持彼此的相对位置，直到开盘掷出。",
+      "original": "After signalling readiness all offensive players must stand with one foot on their defending goal line without changing location relative to one another until the pull is released."
+    },
+    {
+      "id": "7.4",
+      "chapter": 7,
+      "text": "示意准备就绪后，所有防守队员必须使双脚完全位于得分线垂直平面的后方，直到开盘被掷出。",
+      "original": "After signalling readiness all defensive players must keep their feet entirely behind the vertical plane of the goal line until the pull is released."
+    },
+    {
+      "id": "7.5",
+      "chapter": 7,
+      "text": "如果一队违反第 7.3 条（“false start”）或第 7.4 条（“offside”），对方可示意相应违例。必须在进攻方触盘之前示意（第 7.8 条仍适用）。",
+      "original": "If a team breaches 7.3 (“false start”) or 7.4 (“offside”) the opposing team may call the relevant violation. This must be called before the offence touches the disc (7.8 still applies)."
+    },
+    {
+      "id": "7.5.1",
+      "chapter": 7,
+      "text": "防守方示意 false start 后，持盘队员必须按第 7.9、7.10、7.11 或 7.12 条建立轴心点，再尽快按“在该位置叫暂停后恢复比赛”的方式重新开始。",
+      "original": "If the defence chooses to call a false start, the thrower must establish a pivot point as per 7.9, 7.10, 7.11, or 7.12 and then play restarts as soon as possible as if a time-out had been called at that location."
+    },
+    {
+      "id": "7.5.2",
+      "chapter": 7,
+      "text": "进攻方示意 offside 后，必须让飞盘未经触碰地落地，再按已示意 brick 的方式恢复比赛，无需验盘。",
+      "original": "If the offence chooses to call offside, they must let the disc hit the ground untouched and then resume play as if a brick has been called (no check is required)."
+    },
+    {
+      "id": "7.6",
+      "chapter": 7,
+      "text": "开盘一经掷出，所有队员均可向任意方向移动。",
+      "original": "As soon as the pull is released, all players may move in any direction."
+    },
+    {
+      "id": "7.7",
+      "chapter": 7,
+      "text": "开盘后，防守队员在进攻队员触盘或飞盘触地前不得触盘。",
+      "original": "No player on the defensive team may touch the disc after a pull until a member of the offensive team contacts the disc or the disc hits the ground."
+    },
+    {
+      "id": "7.8",
+      "chapter": 7,
+      "text": "开盘时，如果一名进攻队员在飞盘触地前触碰飞盘，无论该队员在界内还是界外，而进攻队伍随后未能建立盘权，则发生攻防转换（“dropped pull”）。",
+      "original": "If an offensive player, in-bounds or out-of-bounds, touches the disc before it hits the ground, and the offensive team fails to subsequently establish possession, that is a turnover (a “dropped pull”)."
+    },
+    {
+      "id": "7.9",
+      "chapter": 7,
+      "text": "如果进攻队员接住开盘并随后建立盘权，该队员必须在比赛场地内距离建立盘权处最近的位置建立轴心点，即使该轴心点位于本队的防守得分区内。",
+      "original": "If an offensive player catches the pull and subsequently establishes possession, they must establish a pivot point at the location on the playing field nearest to where possession is established, even if that pivot point is in their defending end zone."
+    },
+    {
+      "id": "7.10",
+      "chapter": 7,
+      "text": "如果飞盘先接触比赛场地，且此后从未出界，持盘队员必须在飞盘停止处建立轴心点，即使该处位于本队防守得分区内。",
+      "original": "If the disc initially contacts the playing field and never becomes out-of-bounds, the thrower must establish a pivot point where the disc stops, even if that pivot point is in their defending end zone."
+    },
+    {
+      "id": "7.11",
+      "chapter": 7,
+      "text": "如果飞盘先接触比赛场地，随后在未接触进攻队员的情况下出界，持盘队员必须在飞盘首次穿过边界线的位置建立轴心点。如果该位置位于本队防守得分区内，则改在中心区内距离该位置最近的地方建立轴心点。",
+      "original": "If the disc initially contacts the playing field and then becomes out-of-bounds without contacting an offensive player, the thrower must establish a pivot point where the disc first crossed the perimeter line, or the nearest location in the central zone if that pivot point would be in their defending end zone."
+    },
+    {
+      "id": "7.11.1",
+      "chapter": 7,
+      "text": "如果飞盘出界前接触了进攻队员，持盘队员必须在飞盘首次穿过边界线的位置建立轴心点，即使该处位于本队防守得分区内。",
+      "original": "If the disc does contact an offensive player before it becomes out-of-bounds the thrower must establish a pivot point where the disc first crossed the perimeter line, even if that pivot point is in their defending end zone."
+    },
+    {
+      "id": "7.12",
+      "chapter": 7,
+      "text": "如果飞盘未先接触比赛场地或进攻队员便接触界外区域，持盘队员可选择在最靠近本队防守得分区的砖点，或中心区内最靠近飞盘出界处的位置建立轴心点（第 11.8 条）。选择砖点的示意必须在飞盘被捡起前作出，且该选择具有约束力。必须由任意一名进攻队员将一只手臂完全伸直举过头顶进行示意，并应喊“brick”。",
+      "original": "If the disc contacts the out-of-bounds area without first touching the playing field or an offensive player, the thrower may establish a pivot point either at the brick mark closest to their defending end zone, or at the location on the central zone closest to where the disc went out-of-bounds (Section 11.8). The binding brick option must be signalled before the disc is picked up. It must be signalled by any offensive player fully extending one arm overhead, and they should call “brick”."
+    },
+    {
+      "id": "8.1",
+      "chapter": 8,
+      "text": "以下各时段属于“死盘”状态，不会发生攻防转换：",
+      "original": "Play is “dead”, and no turnover is possible:"
+    },
+    {
+      "id": "8.1.1",
+      "chapter": 8,
+      "text": "回合开始后，直到开盘掷出。",
+      "original": "After the start of a point, until the pull is released;"
+    },
+    {
+      "id": "8.1.2",
+      "chapter": 8,
+      "text": "开盘或攻防转换后，当飞盘必须被带到轴心位置时，直到轴心点建立之前。",
+      "original": "When the disc must be carried to the pivot location after the pull or a turnover, until a pivot point is established;"
+    },
+    {
+      "id": "8.1.3",
+      "chapter": 8,
+      "text": "因示意或其他原因中断比赛后，直到完成验盘。",
+      "original": "After a call which stops the play or any other stoppage, until the disc is checked in; or"
+    },
+    {
+      "id": "8.1.4",
+      "chapter": 8,
+      "text": "飞盘触地后，直到应获盘权的队伍建立盘权。",
+      "original": "After a disc hits the ground, until possession is established by the appropriate team."
+    },
+    {
+      "id": "8.1.5",
+      "chapter": 8,
+      "text": "在死盘状态下，队员可以移动（除非另有规定）。",
+      "original": "Players are allowed to move during dead play (unless specified otherwise)."
+    },
+    {
+      "id": "8.2",
+      "chapter": 8,
+      "text": "不属于死盘的比赛状态就是“活盘”。",
+      "original": "Play that is not dead is “live”."
+    },
+    {
+      "id": "8.3",
+      "chapter": 8,
+      "text": "持盘队员不得在死盘状态下将飞盘转交给其他队员。",
+      "original": "The thrower may not transfer possession of the disc during dead play to another player."
+    },
+    {
+      "id": "8.4",
+      "chapter": 8,
+      "text": "飞盘触地后，任何队员都可以尝试阻止其继续滚动或滑行。",
+      "original": "Any player may attempt to stop a disc from rolling or sliding after it has hit the ground."
+    },
+    {
+      "id": "8.4.1",
+      "chapter": 8,
+      "text": "队员试图阻止飞盘滚动或滑行时，如果明显改变了飞盘的位置，对方可以要求在其触盘处建立轴心点。",
+      "original": "If, in attempting to stop such a disc, a player significantly alters the disc’s position, the opposition may request that the pivot point be established at the location where the disc was contacted."
+    },
+    {
+      "id": "8.5",
+      "chapter": 8,
+      "text": "攻防转换后以及开盘后，一名进攻队员必须至少以步行速度直接前去取盘，并建立轴心点。",
+      "original": "After a turnover, and after the pull, an offensive player must move at walking pace or faster to directly retrieve the disc and establish a pivot point."
+    },
+    {
+      "id": "8.5.1",
+      "chapter": 8,
+      "text": "除遵守第 8.5 条之外，攻防转换后，如果飞盘未曾出界，持盘队员还必须按飞盘所在位置，在以下时限内建立轴心点：",
+      "original": "In addition to 8.5, after a turnover the thrower must establish a pivot point within the following time limits, if the disc did not become out-of-bounds, and the disc’s location is:"
+    },
+    {
+      "id": "8.5.1.1",
+      "chapter": 8,
+      "text": "在中心区：飞盘停止移动后 10 秒内。",
+      "original": "in the central zone – within ten (10) seconds of the disc coming to rest."
+    },
+    {
+      "id": "8.5.1.2",
+      "chapter": 8,
+      "text": "在得分区：飞盘停止移动后 20 秒内。",
+      "original": "in an end zone – within twenty (20) seconds of the disc coming to rest."
+    },
+    {
+      "id": "8.5.2",
+      "chapter": 8,
+      "text": "如果进攻方违反第 8.5 或 8.5.1 条，防守方可以给予警告（“Delay of Game”；对于违反第 8.5.1 条的情形，也可使用 Pre-stall），或示意“Violation”。",
+      "original": "If the offence breaches 8.5, or 8.5.1, the defence may give a warning (“Delay of Game” or using a pre-stall for breaches of 8.5.1) or may call a “Violation”."
+    },
+    {
+      "id": "8.5.2.1",
+      "chapter": 8,
+      "text": "如果进攻方在警告后继续违反8.5或8.5.1，则9.3.1不适用，防盘队员可以直接开始读秒。",
+      "original": "If, after a warning, the offence continues to breach 8.5, or 8.5.1, then 9.3.1 does not apply and the marker may commence the stall count."
+    },
+    {
+      "id": "8.5.3",
+      "chapter": 8,
+      "text": "防守方不得以妨碍进攻方获得盘权或建立轴心点的方式移动。",
+      "original": "The defence must not move in a manner that obstructs the offence from taking possession of the disc or establishing a pivot point."
+    },
+    {
+      "id": "8.5.4",
+      "chapter": 8,
+      "text": "如果队员无法就正确的轴心位置达成一致，必须采用双方提出的两个位置之间相应的中点。",
+      "original": "If players cannot agree on the correct pivot location, the relevant midpoint between the two proposed pivot locations must be used."
+    },
+    {
+      "id": "9.1",
+      "chapter": 9,
+      "text": "防盘队员对持盘队员执行读秒时，先喊“Stalling”，再从一（1）数到十（10）。读出各数字的起始时刻之间必须至少间隔一（1）秒。",
+      "original": "The marker administers a stall count on the thrower by announcing “Stalling” and then counting from one (1) to ten (10). The interval between the start of each number in the stall count must be at least one (1) second."
+    },
+    {
+      "id": "9.2",
+      "chapter": 9,
+      "text": "读秒必须清楚地传达给持盘队员。",
+      "original": "The stall count must be clearly communicated to the thrower."
+    },
+    {
+      "id": "9.3",
+      "chapter": 9,
+      "text": "防盘队员只有同时满足以下条件，才可开始或继续读秒：",
+      "original": "The marker may only start and continue a stall count when:"
+    },
+    {
+      "id": "9.3.1",
+      "chapter": 9,
+      "text": "比赛处于活盘状态，或攻防转换后的轴心点已经建立。",
+      "original": "Play is live, or once a pivot point is established after a turnover;"
+    },
+    {
+      "id": "9.3.2",
+      "chapter": 9,
+      "text": "防盘队员位于持盘队员轴心点的 3 米范围内；如果持盘队员尚不在轴心位置，则防盘队员须位于该轴心位置的 3 米范围内。",
+      "original": "They are within three (3) metres of the thrower’s pivot point, or the pivot location if the thrower is not at that location; and"
+    },
+    {
+      "id": "9.3.3",
+      "chapter": 9,
+      "text": "所有防守队员都处于合法位置（第18.1条）。",
+      "original": "All defenders are legally positioned (Section 18.1)."
+    },
+    {
+      "id": "9.4",
+      "chapter": 9,
+      "text": "如果防盘队员移出相应的 3 米半径范围，或由另一名队员担任防盘队员，读秒必须从“Stalling one (1)”重新开始。",
+      "original": "If the marker moves beyond the appropriate three (3) metre radius, or a different player becomes the marker, the stall count must be restarted at “Stalling one (1)”."
+    },
+    {
+      "id": "9.5",
+      "chapter": 9,
+      "text": "比赛中断后，读秒按以下方式恢复：",
+      "original": "After a stoppage in play the stall count is resumed as follows:"
+    },
+    {
+      "id": "9.5.1",
+      "chapter": 9,
+      "text": "防守方的违反规则行为被接受后，读秒从“Stalling one (1)”重新开始。",
+      "original": "After an accepted breach by the defence the stall count restarts at “Stalling one (1)”."
+    },
+    {
+      "id": "9.5.2",
+      "chapter": 9,
+      "text": "进攻方违反规则且无争议时，最多从 9 恢复读秒。",
+      "original": "After an accepted breach by the offence the stall count restarts at maximum nine (9)."
+    },
+    {
+      "id": "9.5.3",
+      "chapter": 9,
+      "text": "在有争议的 stall-out 后，读秒从“Stalling eight (8)”重新开始。",
+      "original": "After a contested stall-out the stall count restarts at “Stalling eight (8)”."
+    },
+    {
+      "id": "9.5.4",
+      "chapter": 9,
+      "text": "按第 16.3.2 条继续比赛后，读秒从“Stalling one (1)”重新开始。",
+      "original": "After continuation of play in accordance with rule 16.3.2 the stall count restarts at “Stalling one (1)”."
+    },
+    {
+      "id": "9.5.5",
+      "chapter": 9,
+      "text": "其他所有示意后，包括“Pick”，最多从 6 恢复读秒，但有以下例外：",
+      "original": "After all other calls, including “pick”, the stall count restarts at maximum six (6). However:"
+    },
+    {
+      "id": "9.5.5.1",
+      "chapter": 9,
+      "text": "如果同时有涉及持盘队员的示意，以及另一起接盘方面的违反规则行为，且飞盘交回持盘队员，则按涉及持盘队员的示意结果恢复读秒。",
+      "original": "If there is a call involving the thrower, and a separate receiving breach, and the disc is returned to the thrower, the stall count is resumed based on the outcome of the call involving the thrower."
+    },
+    {
+      "id": "9.5.5.2",
+      "chapter": 9,
+      "text": "如果示意的是验盘违例（第 10 章），按该违例发生前已确定的数值恢复读秒。",
+      "original": "If there is a violation called related to The Check (Section 10.), the stall count resumes at the same count that was determined prior to that violation."
+    },
+    {
+      "id": "9.6",
+      "chapter": 9,
+      "text": "“最多从 n 恢复读秒”中的 n，由第 9.5.2、9.5.5 或 20.3.6 条确定，具体含义如下：",
+      "original": "To restart a stall count “at maximum n”, where “n” is determined by 9.5.2, 9.5.5, or 20.3.6, means the following:"
+    },
+    {
+      "id": "9.6.1",
+      "chapter": 9,
+      "text": "如果 x 是示意前双方认可的最后一个完整读出的数字，则从“Stalling (x plus one)”或“Stalling n”中数值较小者恢复读秒。",
+      "original": "If “x” is the last agreed number fully uttered prior to the call, then the stall count resumes at “Stalling (x plus one)” or “Stalling n”, whichever of those two numbers is lower."
+    },
+    {
+      "id": "10.1",
+      "chapter": 10,
+      "text": "回合中，比赛因犯规、违例、有争议的攻防转换、特定攻防转换、有争议的得分、其他中断或讨论而停止，或暂停结束时，都必须尽快通过验盘重新开始。只有讨论示意时，才可推迟验盘。",
+      "original": "Whenever play stops during a point for a foul, violation, contested turnover, specified turnover, contested goal, stoppage, discussion, or at the completion of a time-out, play must restart as quickly as possible with a check. The check may only be delayed for the discussion of a call."
+    },
+    {
+      "id": "10.2",
+      "chapter": 10,
+      "text": "示意后，队员按以下规则恢复位置；暂停或规则另有规定时除外：",
+      "original": "Player positioning after a call (except in the case of a time-out, and unless specified otherwise):"
+    },
+    {
+      "id": "10.2.1",
+      "chapter": 10,
+      "text": "如果比赛在传盘前停止，所有队员必须回到示意时他们所在的位置。",
+      "original": "If play stops before a pass is thrown, all players must return to the location they held when the call was made."
+    },
+    {
+      "id": "10.2.2",
+      "chapter": 10,
+      "text": "如果比赛在传盘后停止，则：",
+      "original": "If play stops after a pass is thrown, then:"
+    },
+    {
+      "id": "10.2.2.1",
+      "chapter": 10,
+      "text": "飞盘交回持盘队员时，所有队员须返回出盘时或示意时的位置，以较早发生的时刻为准。",
+      "original": "if the disc is returned to the thrower, all players must return to the location they held when the thrower released the pass, or the time of the call, whichever is earlier."
+    },
+    {
+      "id": "10.2.2.2",
+      "chapter": 10,
+      "text": "比赛结果有效时，所有队员须返回有队员建立盘权或飞盘触地时的位置。",
+      "original": "if the result of the play stands all players must return to the location they held when either a player established possession, or the disc hit the ground."
+    },
+    {
+      "id": "10.2.2.3",
+      "chapter": 10,
+      "text": "因被接受的违反规则行为，由原持盘队员以外的队员获得盘权时，所有队员须返回该行为发生时的位置。",
+      "original": "if a player other than the thrower gains possession as a result of an accepted breach, all players must return to the location they held when the breach occurred."
+    },
+    {
+      "id": "10.2.3",
+      "chapter": 10,
+      "text": "在验盘前，所有队员必须在原位置保持静止不动。",
+      "original": "All players must remain stationary in that location until the disc is checked in."
+    },
+    {
+      "id": "10.3",
+      "chapter": 10,
+      "text": "任何队员均可为修复有问题的装备而短暂延长比赛中断（示意“equipment”），但不得为此中断正在进行的比赛。",
+      "original": "Any player may briefly extend a stoppage of play to fix faulty equipment (“equipment”), but active play may not be stopped for this purpose."
+    },
+    {
+      "id": "10.4",
+      "chapter": 10,
+      "text": "在验盘之前，验盘队员和最近的对方队员必须确认己方队员准备完毕，并且根据10.2规定站位。",
+      "original": "Prior to the check the person checking the disc in, and the nearest opposition player, must verify that their own team-mates are ready, and positioned as per 10.2."
+    },
+    {
+      "id": "10.5",
+      "chapter": 10,
+      "text": "验盘出现不必要的拖延时，对方可以警告“Delay of Game”。如拖延继续，发出警告的一队可直接喊“Disc In”验盘，无需对方确认；但本队所有队员须保持静止，并按第 10.2 条就位。",
+      "original": "If there is an unnecessary delay in checking the disc in, the opposition may give a warning (“Delay of Game”). If the delay continues, the team that gave the warning may check the disc in by calling “Disc In”, without verification from the opposition, but only if the team checking the disc in are all stationary, and positioned as per 10.2."
+    },
+    {
+      "id": "10.6",
+      "chapter": 10,
+      "text": "通过验盘重新开始比赛：",
+      "original": "To restart play with a check:"
+    },
+    {
+      "id": "10.6.1",
+      "chapter": 10,
+      "text": "当持盘队员手持飞盘时：",
+      "original": "when the thrower has the disc:"
+    },
+    {
+      "id": "10.6.1.1",
+      "chapter": 10,
+      "text": "如果有防守队员在可触盘范围内，防守队员必须触碰飞盘。",
+      "original": "if there is a defender within reach, the defender must touch the disc."
+    },
+    {
+      "id": "10.6.1.2",
+      "chapter": 10,
+      "text": "如果没有防守队员处于伸手可触及飞盘的范围，持盘队员必须用飞盘触碰地面，并可以喊“Disc In”。",
+      "original": "if there is not a defender within reach, the thrower must touch the disc to the ground and may call “Disc In”."
+    },
+    {
+      "id": "10.6.2",
+      "chapter": 10,
+      "text": "当飞盘在地面时，离飞盘最近的防守队员必须示意“Disc In”。",
+      "original": "when the disc is on the ground, the defender nearest to the disc must call “Disc In”."
+    },
+    {
+      "id": "10.7",
+      "chapter": 10,
+      "text": "对方出现以下任一情况时，队员可示意验盘违例：",
+      "original": "A player may call a violation regarding the check if an opponent:"
+    },
+    {
+      "id": "10.7.1",
+      "chapter": 10,
+      "text": "没有按10.6要求进行验盘的情况下尝试传盘。",
+      "original": "attempts a pass without an appropriate check as per 10.6; or"
+    },
+    {
+      "id": "10.7.2",
+      "chapter": 10,
+      "text": "未经距离自己最近的对方队员确认便重新开始比赛。",
+      "original": "restarts play without verification from their nearest opposition player; or"
+    },
+    {
+      "id": "10.7.3",
+      "chapter": 10,
+      "text": "在即将验盘之前仍在移动。",
+      "original": "is moving immediately prior to the check; or"
+    },
+    {
+      "id": "10.7.4",
+      "chapter": 10,
+      "text": "未处于正确的位置。",
+      "original": "was not in the appropriate position."
+    },
+    {
+      "id": "10.7.5",
+      "chapter": 10,
+      "text": "示意该违例后，任何传盘均不计入结果，无论传盘成功与否，盘权都回到持盘队员手中；适用第 16.3 条时除外。",
+      "original": "After this violation call any pass does not count regardless of whether it is complete or incomplete, and possession reverts back to the thrower (unless 16.3 applies)."
+    },
+    {
+      "id": "11.1",
+      "chapter": 11,
+      "text": "整个比赛场地为界内区域，边界线不属于比赛场地的一部分，属于界外。所有非场上队员都属于界外区域的部分。",
+      "original": "The entire playing field is in-bounds. The perimeter lines are not part of the playing field and are out-of- bounds. All non-players are part of the out-of-bounds area."
+    },
+    {
+      "id": "11.2",
+      "chapter": 11,
+      "text": "界外包括不在界内的地面及与之接触的所有物体，但防守队员除外，他们始终被视为“界内”状态。",
+      "original": "The out-of-bounds area consists of the ground which is not in-bounds and everything in contact with it, except for defensive players, who are always considered “in-bounds”."
+    },
+    {
+      "id": "11.3",
+      "chapter": 11,
+      "text": "不在界外的进攻队员属于界内。",
+      "original": "An offensive player who is not out-of-bounds is in-bounds."
+    },
+    {
+      "id": "11.3.1",
+      "chapter": 11,
+      "text": "腾空队员保留离地前的界内或界外状态，直到接触比赛场地或界外区域。",
+      "original": "An airborne player retains their in-bounds/out-of-bounds status until that player contacts the playing field or the out-of-bounds area."
+    },
+    {
+      "id": "11.3.2",
+      "chapter": 11,
+      "text": "已接住飞盘的队员先接触比赛场地，再接触界外区域，只要持续保持接盘状态直到建立盘权，仍视为界内。",
+      "original": "A player who has caught the disc, who contacts the playing field and then contacts an out-of- bounds area, is still considered in-bounds, as long as they maintain the catch until they establish possession."
+    },
+    {
+      "id": "11.3.2.1",
+      "chapter": 11,
+      "text": "如果该队员离开比赛场地，则必须在其穿越边界线时所在的比赛场地位置建立轴心点（除非14.3适用）。",
+      "original": "If they leave the playing field, they must establish a pivot point at the location on the playing field where they crossed the perimeter line (unless 14.3 is in effect)."
+    },
+    {
+      "id": "11.3.3",
+      "chapter": 11,
+      "text": "接触界外区域的持盘队员，在传出飞盘前仍视为界内。",
+      "original": "A thrower who contacts an out-of-bounds area is considered in-bounds until they make a pass."
+    },
+    {
+      "id": "11.3.4",
+      "chapter": 11,
+      "text": "队员之间的接触不会把界内或界外状态传递给对方。",
+      "original": "Contact between players does not confer the state of being in- or out-of-bounds from one to another."
+    },
+    {
+      "id": "11.4",
+      "chapter": 11,
+      "text": "以下任一情形均构成出界攻防转换，且不视为发生过接盘：",
+      "original": "The following are out-of-bounds turnovers, and no catch is deemed to have occurred:"
+    },
+    {
+      "id": "11.4.1",
+      "chapter": 11,
+      "text": "一名进攻接盘队员触盘时，其身体任何部分处于界外。",
+      "original": "any part of an offensive receiver is out-of-bounds when they contact the disc; or"
+    },
+    {
+      "id": "11.4.2",
+      "chapter": 11,
+      "text": "一名进攻接盘队员在空中接盘后，其首次接触为界外，同时仍与飞盘保持接触。",
+      "original": "after catching the disc while airborne, an offensive receiver’s first contact is out-of-bounds while still in contact with the disc."
+    },
+    {
+      "id": "11.5",
+      "chapter": 11,
+      "text": "比赛处于“活盘”状态或比赛开始及重新开始时，飞盘属于界内。",
+      "original": "A disc is in-bounds once play is live, or when play starts or restarts."
+    },
+    {
+      "id": "11.6",
+      "chapter": 11,
+      "text": "当飞盘接触到界外区域或接触界外的进攻队员时即为出界。进攻队员接住的飞盘与该队员的界内/界外状态一致。如果飞盘同时被多名进攻队员接住，其中一名队员在界外，则飞盘为出界。",
+      "original": "A disc becomes out-of-bounds when it first contacts the out-of-bounds area or contacts an out-of- bounds offensive player. A disc that has been caught by an offensive player has the same in/out-of-bounds status as that player. If the disc is simultaneously caught by more than one offensive player, one of them being out-of-bounds, the disc is out-of-bounds."
+    },
+    {
+      "id": "11.7",
+      "chapter": 11,
+      "text": "飞盘可能会飞出边界线后飞回比赛场地，队员也可以在界外尝试触盘。",
+      "original": "The disc may fly outside a perimeter line and return to the playing field, and players may go out-of- bounds to make a play on the disc."
+    },
+    {
+      "id": "11.8",
+      "chapter": 11,
+      "text": "飞盘出界点，是其接触界外区域或界外队员之前，最后出现以下任一情况的位置：",
+      "original": "The place where a disc went out-of-bounds is the location where, prior to contacting an out-of-bounds area or player, the disc was most recently:"
+    },
+    {
+      "id": "11.8.1",
+      "chapter": 11,
+      "text": "飞盘部分或全部位于比赛场地上方。",
+      "original": "partly or wholly over the playing field; or"
+    },
+    {
+      "id": "11.8.2",
+      "chapter": 11,
+      "text": "飞盘被界内队员接触。",
+      "original": "contacted by an in-bounds player."
+    },
+    {
+      "id": "11.9",
+      "chapter": 11,
+      "text": "如果飞盘在界外，且距离轴心位置超过 3 米，非场上队员可以取回飞盘。通向比赛场地的最后 3 米，必须由持盘队员持盘带回。",
+      "original": "If the disc is out-of-bounds and more than three (3) metres from the pivot location, non-players may retrieve the disc. The thrower must carry the disc the last three (3) metres to the playing field."
+    },
+    {
+      "id": "12.1",
+      "chapter": 12,
+      "text": "队员用至少两个身体部位夹住一个不再旋转的飞盘，即构成 Catch（接盘）。接盘可以使队员建立盘权。",
+      "original": "A “catch” occurs when a player has a non-spinning disc trapped between at least two body parts. A catch can enable a player to establish possession of the disc."
+    },
+    {
+      "id": "12.1.1",
+      "chapter": 12,
+      "text": "如果队员因随后与接盘相关的触地，或因与接盘相关的、与队友或处于合法位置的对手发生的接触，未能保持接盘状态，则视为未建立盘权。",
+      "original": "If the player fails to maintain the catch due to subsequent ground contact related to the catch, or contact related to the catch with a team-mate or a legitimately positioned opposition player, possession is deemed to have not occurred."
+    },
+    {
+      "id": "12.2",
+      "chapter": 12,
+      "text": "建立盘权后，该队员成为持盘队员。",
+      "original": "After establishing possession, that player becomes the thrower."
+    },
+    {
+      "id": "12.3",
+      "chapter": 12,
+      "text": "如果进攻和防守队员同时接到飞盘，则进攻方拥有盘权。",
+      "original": "If offensive and defensive players catch the disc simultaneously, the offence retains possession."
+    },
+    {
+      "id": "12.4",
+      "chapter": 12,
+      "text": "已占据某位置的队员有权留在该处，对方队员不得与其发生身体接触。",
+      "original": "A player in an established position is entitled to remain in that position and must not be contacted by an opposing player."
+    },
+    {
+      "id": "12.5",
+      "chapter": 12,
+      "text": "队员有权占据场上任何未被对手占据的位置，前提是在就位时不主动发起接触，也不以鲁莽或危险、攻击性的方式移动。",
+      "original": "Every player is entitled to occupy any position on the field not occupied by any opposing player, provided that they do not initiate contact in taking such a position, and are not moving in a reckless or dangerously aggressive manner."
+    },
+    {
+      "id": "12.5.1",
+      "chapter": 12,
+      "text": "但是，当飞盘在空中时，队员不得仅为阻止对手沿未被占据的路径尝试触盘而作出移动。",
+      "original": "However when the disc is in the air a player may not move in a manner solely to prevent an opponent from taking an unoccupied path to make a play on the disc."
+    },
+    {
+      "id": "12.6",
+      "chapter": 12,
+      "text": "所有队员都必须尽力避免主动接触其他队员，任何情况下都没有主动发起接触的正当理由。既要避免主动接触静止的对手，也要避开对手按既定速度和方向预计将到达的位置。",
+      "original": "All players must attempt to avoid initiating contact with other players, and there is no situation where a player may justify initiating contact. This includes avoiding initiating contact with a stationary opponent, or an opponent’s expected position based on their established speed and direction."
+    },
+    {
+      "id": "12.6.1",
+      "chapter": 12,
+      "text": "“尝试触盘”不是主动接触其他队员的正当理由。",
+      "original": "“Making a play for the disc” is not a valid excuse for initiating contact with other players."
+    },
+    {
+      "id": "12.6.2",
+      "chapter": 12,
+      "text": "队员在飞扑、跃出或起跳离开自身位置之前，必须有合理把握自己不会主动与对手发生接触。",
+      "original": "Before a player dives, leaps or jumps away from their position, they must be reasonably certain they will not initiate contact with an opponent."
+    },
+    {
+      "id": "12.6.3",
+      "chapter": 12,
+      "text": "如果一名队员无法合理确定，自己能比以合法方式移动的对手更早合法地尝试触盘，就必须调整移动，以避免主动发起接触。即使作出这种调整，比赛结果仍然有效。",
+      "original": "If a player is not reasonably certain that they will be able to make a legal play at the disc before an opponent who is moving in a legal manner, they must adjust their movements to avoid initiating contact. If that adjustment is made, the result of the play still stands."
+    },
+    {
+      "id": "12.7",
+      "chapter": 12,
+      "text": "符合以下任一情况的队员，视为发起接触的一方：",
+      "original": "The player who initiates contact is deemed to be the player who:"
+    },
+    {
+      "id": "12.7.1",
+      "chapter": 12,
+      "text": "对手已在接触点建立合法位置后，该队员才到达该处；对手可以是静止或移动状态。",
+      "original": "arrived at the point of contact after the opponent had already established a legitimate position at that point (either a stationary or moving opponent), or"
+    },
+    {
+      "id": "12.7.2",
+      "chapter": 12,
+      "text": "结合所有队员既定的位置、速度和方向判断，该队员调整移动，造成与合法移动的对手发生不可避免的接触。",
+      "original": "adjusted their movements in a way that created unavoidable contact with an opponent moving in a legal manner, when taking into account all players’ established position, speed and direction."
+    },
+    {
+      "id": "12.7.3",
+      "chapter": 12,
+      "text": "如果无法判断谁发起接触，而其中一名队员曾飞扑、跃出或起跳离开原位置，则视为该队员发起接触。",
+      "original": "If it is unclear which player initiated contact, and one of the players dived, leaped or jumped away from their position, that player is deemed to have initiated contact."
+    },
+    {
+      "id": "12.8",
+      "chapter": 12,
+      "text": "当两名或更多的队员同时向一个位置移动时，可能会发生轻微的接触。轻微接触应尽量减少，但不视为犯规。",
+      "original": "Some minor contact may occur as two or more players move towards a single point simultaneously. Minor contact should be minimized but is not considered a foul."
+    },
+    {
+      "id": "12.9",
+      "chapter": 12,
+      "text": "队员不得伸出手臂或腿阻碍对方队员移动。",
+      "original": "Players may not use their extended arms or legs to obstruct the movement of opposing players."
+    },
+    {
+      "id": "12.10",
+      "chapter": 12,
+      "text": "队员不能用身体协助其他队员移动，也不能借助装备或物品接触飞盘。",
+      "original": "No player may physically assist the movement of another player, nor use an item of equipment or object to assist in contacting the disc."
+    },
+    {
+      "id": "13.1",
+      "chapter": 13,
+      "text": "发生以下任一情况时，盘权由一队转给另一队：",
+      "original": "A turnover that transfers possession of the disc from one team to the other occurs when:"
+    },
+    {
+      "id": "13.1.1",
+      "chapter": 13,
+      "text": "飞盘触地，且当时没有进攻队员对其拥有盘权（“down”）。",
+      "original": "the disc contacts the ground while it is not in the possession of an offensive player (a “down”);"
+    },
+    {
+      "id": "13.1.1.1",
+      "chapter": 13,
+      "text": "但如果接盘队员在飞盘触地前接住传盘，并在飞盘接触地面时持续保持接盘状态，则不构成“down”。",
+      "original": "however it is not “down” if a receiver catches a pass before the disc contacts the ground, and maintains the catch while the disc is in contact with the ground."
+    },
+    {
+      "id": "13.1.2",
+      "chapter": 13,
+      "text": "防守队员对传盘建立盘权（“interception”）。",
+      "original": "a defensive player establishes possession of a pass (an “interception”);"
+    },
+    {
+      "id": "13.1.3",
+      "chapter": 13,
+      "text": "飞盘出界（“out-of-bounds”或“out”）。",
+      "original": "the disc becomes out-of-bounds (an “out-of-bounds” or “out”); or"
+    },
+    {
+      "id": "13.1.4",
+      "chapter": 13,
+      "text": "在开盘时，进攻方在飞盘落地前接触飞盘，随后未能建立盘权（“dropped pull”）。",
+      "original": "during the pull, the offence touches the disc before it hits the ground, and subsequently fails to establish possession of the disc (a “dropped pull”)."
+    },
+    {
+      "id": "13.2",
+      "chapter": 13,
+      "text": "发生以下任一情况时，盘权由一队转给另一队，比赛同时中断：",
+      "original": "A turnover that transfers possession of the disc from one team to the other, and results in a stoppage of play, occurs when:"
+    },
+    {
+      "id": "13.2.1",
+      "chapter": 13,
+      "text": "无争议的进攻接盘犯规。",
+      "original": "there is an accepted offensive receiving foul;"
+    },
+    {
+      "id": "13.2.2",
+      "chapter": 13,
+      "text": "在防盘队员读秒首次开始说出“ten”之前，持盘队员尚未将飞盘掷出（“stall-out”）。",
+      "original": "the thrower has not released the pass before the marker first starts to say the word “ten” in the stall count (a “stall-out”);"
+    },
+    {
+      "id": "13.2.3",
+      "chapter": 13,
+      "text": "飞盘被故意从一名进攻队员直接转交给另一名进攻队员，过程中从未出现两名队员都完全不接触飞盘的时刻（“handover”）。",
+      "original": "the disc is intentionally transferred from one offensive player to another without ever being completely untouched by both players (a “handover”);"
+    },
+    {
+      "id": "13.2.4",
+      "chapter": 13,
+      "text": "持盘队员故意将飞盘传向其他队员，使飞盘回弹给自己（“deflection”）。",
+      "original": "the thrower intentionally deflects a pass to themselves off another player (a “deflection”);"
+    },
+    {
+      "id": "13.2.5",
+      "chapter": 13,
+      "text": "持盘队员传盘后，在其他队员接触飞盘前接住了飞盘（“self-catch”）。",
+      "original": "in attempting a pass, the thrower catches the disc after release prior to the disc being contacted by another player (a “self-catch”);"
+    },
+    {
+      "id": "13.2.6",
+      "chapter": 13,
+      "text": "进攻队员故意协助队友移动去接盘。",
+      "original": "an offensive player intentionally assists a team-mate’s movement to catch a pass; or"
+    },
+    {
+      "id": "13.2.7",
+      "chapter": 13,
+      "text": "进攻队员利用装备或物体协助接住传盘。",
+      "original": "an offensive player uses an item of equipment or object to assist in catching a pass."
+    },
+    {
+      "id": "13.3",
+      "chapter": 13,
+      "text": "如果队员确定发生了攻防转换，他们必须立即做出相应的示意。如果对方不同意，他们可以示意“Contest”，比赛必须停止。如果双方队员讨论后无法达成一致，或者不清楚发生了什么，飞盘必须回到最后一个无争议的持盘队员手中。",
+      "original": "If a player determines a turnover has occurred they must make the appropriate call immediately. If the opposition disagrees they may call \"contest\" and play must stop. If, after discussion, players cannot agree or it is unclear what occurred in the play, the disc must be returned to the last non-disputed thrower."
+    },
+    {
+      "id": "13.4",
+      "chapter": 13,
+      "text": "在“stall-out”示意后：",
+      "original": "After a “stall-out” call:"
+    },
+    {
+      "id": "13.4.1",
+      "chapter": 13,
+      "text": "如果持盘队员仍拥有盘权，但认为发生了 Fast Count（读秒过快），以致自己没有合理机会在 stall-out 前示意 Fast Count，则按被接受的防守方违反规则行为（第 9.5.1 条）或有争议的 stall-out（第 9.5.3 条）处理。",
+      "original": "If the thrower still has possession of the disc, but they believe a fast count occurred in such a manner that they did not have a reasonable opportunity to call fast count before a stall-out, the play is treated as either an accepted defensive breach (9.5.1) or a contested stall-out (9.5.3)."
+    },
+    {
+      "id": "13.4.2",
+      "chapter": 13,
+      "text": "如果持盘队员完成了成功传盘，且认为并未发生 stall-out，或在 stall-out 紧接之前发生了 Fast Count，则可以提出争议。",
+      "original": "If the thrower made a completed pass, the thrower can contest if they believe it was not a “stall- out”, or there was a fast count immediately prior to the “stall-out”."
+    },
+    {
+      "id": "13.4.3",
+      "chapter": 13,
+      "text": "如果持盘队员对读秒超时的示意提出争议，但仍尝试传盘，且该传盘不成功，则攻防转换成立，验盘后比赛重新开始。",
+      "original": "If the thrower contests a stall-out but also attempts a pass, and the pass is incomplete, then the turnover stands and play restarts with a check."
+    },
+    {
+      "id": "13.5",
+      "chapter": 13,
+      "text": "攻防转换后，任何进攻队员均可建立盘权，但以下情况除外：",
+      "original": "Any offensive player may establish possession of the disc after a turnover, except:"
+    },
+    {
+      "id": "13.5.1",
+      "chapter": 13,
+      "text": "在“interception”造成攻防转换后，截获飞盘的队员必须保持盘权。",
+      "original": "after an “interception” turnover, in which case the player who made the interception must maintain possession; and"
+    },
+    {
+      "id": "13.5.2",
+      "chapter": 13,
+      "text": "在无争议的进攻方接盘犯规后，被犯规的队员必须建立盘权。",
+      "original": "after an accepted receiving foul caused by the offence, in which case the fouled player must establish possession."
+    },
+    {
+      "id": "13.6",
+      "chapter": 13,
+      "text": "攻防转换后，或开盘已触地后，拥有盘权的队员如果故意丢盘、将盘放到地面，或把盘权转交他人，必须重新建立盘权，并通过验盘恢复比赛。",
+      "original": "If the player in possession after a turnover, or after a pull that has already hit the ground, intentionally drops the disc, places the disc on the ground, or transfers possession of the disc, they must re-establish possession and restart play with a check."
+    },
+    {
+      "id": "13.7",
+      "chapter": 13,
+      "text": "攻防转换位置按相应情形确定：",
+      "original": "After a turnover, the turnover location is where:"
+    },
+    {
+      "id": "13.7.1",
+      "chapter": 13,
+      "text": "飞盘停下或进攻队员捡起飞盘的位置。",
+      "original": "the disc has come to a stop or is picked up by an offensive player; or"
+    },
+    {
+      "id": "13.7.2",
+      "chapter": 13,
+      "text": "截获飞盘的队员停下的位置。",
+      "original": "the intercepting player stops; or"
+    },
+    {
+      "id": "13.7.3",
+      "chapter": 13,
+      "text": "第 13.2.2、13.2.3、13.2.4、13.2.5 条情形中，为作出示意时持盘队员所在的位置。",
+      "original": "the thrower was located at the time of the call, in the case of 13.2.2, 13.2.3, 13.2.4, 13.2.5; or"
+    },
+    {
+      "id": "13.7.4",
+      "chapter": 13,
+      "text": "第 13.2.6、13.2.7 条情形中，为相关进攻队员所在的位置。",
+      "original": "the offensive player was located, in the case of 13.2.6 and 13.2.7; or"
+    },
+    {
+      "id": "13.7.5",
+      "chapter": 13,
+      "text": "无争议的进攻接盘犯规发生的位置。",
+      "original": "the accepted offensive receiving foul occurred."
+    },
+    {
+      "id": "13.8",
+      "chapter": 13,
+      "text": "如果攻防转换位置在界外，或者攻防转换发生后飞盘接触了界外区域，持盘队员必须在离飞盘出界点最近的中心区位置建立轴心点（第11.8条）。",
+      "original": "If the turnover location is out-of-bounds, or the disc touched an out-of-bounds area after the turnover occurred, the thrower must establish a pivot point at the location on the central zone nearest to where the disc went out-of-bounds (Section 11.8)."
+    },
+    {
+      "id": "13.8.1",
+      "chapter": 13,
+      "text": "如果13.8不适用，则应根据13.9、13.10或13.11建立轴心点。",
+      "original": "If 13.8 does not apply, a pivot point must be established according to 13.9, 13.10, or 13.11."
+    },
+    {
+      "id": "13.9",
+      "chapter": 13,
+      "text": "如果攻防转换在中心区，持盘队员必须在该位置建立轴心点。",
+      "original": "If the turnover location is in the central zone, the thrower must establish a pivot point at that location."
+    },
+    {
+      "id": "13.10",
+      "chapter": 13,
+      "text": "如果攻防转换发生在进攻方的进攻得分区，持盘队员必须在离攻防转换位置最近的得分线上建立轴心点。",
+      "original": "If the turnover location is in the offence’s attacking end zone, the thrower must establish a pivot point at the nearest location on the goal line."
+    },
+    {
+      "id": "13.11",
+      "chapter": 13,
+      "text": "如果攻防转换在进攻方的防守得分区，持盘队员可以选择以下位置建立轴心点：",
+      "original": "If the turnover location is in the offence’s defending end zone, the thrower may choose where to establish a pivot point:"
+    },
+    {
+      "id": "13.11.1",
+      "chapter": 13,
+      "text": "在攻防转换发生的位置，通过停留在该位置或做出传盘假动作表明选择。",
+      "original": "at the turnover location, by staying at the turnover location or faking a pass; or"
+    },
+    {
+      "id": "13.11.2",
+      "chapter": 13,
+      "text": "从攻防转换位置移开，选择得分线上距该位置最近的点。",
+      "original": "at the nearest location on the goal line to the turnover location, by moving from the turnover location."
+    },
+    {
+      "id": "13.11.2.1",
+      "chapter": 13,
+      "text": "准备成为持盘队员的队员，在捡起飞盘前，可以将一只手臂完全伸直举过头顶，示意选择得分线位置。",
+      "original": "The intended thrower, before picking up the disc, may signal the goal line option by fully extending one arm above their head."
+    },
+    {
+      "id": "13.11.3",
+      "chapter": 13,
+      "text": "立即移动、留在攻防转换位置、做传盘假动作，或示意选择得分线，都会确定轴心点位置；一经确定，不得更改。",
+      "original": "Immediate movement, staying at the turnover location, faking a pass, or signaling the goal line option, determines where to establish a pivot point and cannot be reversed."
+    },
+    {
+      "id": "13.12",
+      "chapter": 13,
+      "text": "如果在被接受的攻防转换后，比赛在不知情的情况下继续进行，则比赛停止，飞盘返回攻防转换位置；队员恢复到攻防转换发生时的位置，并通过验盘重新开始比赛。",
+      "original": "If, after an accepted turnover, play has continued unknowingly, play stops and the disc is returned to the turnover location, players resume their positions at the time the turnover occurred and play restarts with a check."
+    },
+    {
+      "id": "14.1",
+      "chapter": 14,
+      "text": "界内队员接住合法传盘，并同时满足以下条件，即为得分：",
+      "original": "A goal is scored if an in-bounds player catches a legal pass and:"
+    },
+    {
+      "id": "14.1.1",
+      "chapter": 14,
+      "text": "该队员所有与地面的接触均完全位于本队的进攻得分区内；对于空中接盘的队员，接盘后首次同时触地的所有接触点均须完全位于本队的进攻得分区内。",
+      "original": "all their ground contacts are entirely within their attacking end zone, or for an airborne player, all of their first simultaneous points of ground contact after catching the disc are entirely within their attacking end zone, and"
+    },
+    {
+      "id": "14.1.2",
+      "chapter": 14,
+      "text": "该队员随后建立盘权，并在所有与接盘相关的触地过程中持续保持接盘状态（参见第 12.1、12.1.1 条）。",
+      "original": "they subsequently establish possession of the disc, and maintain the catch throughout all ground contact related to the catch (note 12.1, 12.1.1)."
+    },
+    {
+      "id": "14.2",
+      "chapter": 14,
+      "text": "队员认为已经得分时，可以喊“goal”，比赛随即停止。如果得分示意有争议或被撤回，须通过验盘恢复比赛；示意时间按队员建立盘权的时刻认定。",
+      "original": "If a player believes a goal has been scored, they may call “goal” and play stops. After a contested or retracted goal call play must restart with a check and the call is deemed to have been made when the player established possession."
+    },
+    {
+      "id": "14.3",
+      "chapter": 14,
+      "text": "拥有盘权的队员最终位于本队进攻得分区内，却未按第 14.1 条得分时，必须在最近的得分线位置建立轴心点。",
+      "original": "If a player in possession of the disc ends up in the end zone they are attacking without scoring a goal according to 14.1, the player must establish a pivot point at the nearest location on the goal line."
+    },
+    {
+      "id": "14.4",
+      "chapter": 14,
+      "text": "得分发生的时刻被认定为队员建立盘权的时刻。",
+      "original": "The time at which a goal is deemed to have been scored is when the player established possession."
+    },
+    {
+      "id": "15.1",
+      "chapter": 15,
+      "text": "两名或更多对立队员之间因非轻微接触而违反规则，构成犯规（Foul）。",
+      "original": "A breach of the rules due to non-minor contact between two or more opposing players is a foul."
+    },
+    {
+      "id": "15.1.1",
+      "chapter": 15,
+      "text": "队员故意发起轻微接触仍然是违反规则，但应被视为违例，而非犯规。",
+      "original": "A player intentionally initiating minor contact is still a breach of the rules, but is to be treated as a violation, and not a foul."
+    },
+    {
+      "id": "15.2",
+      "chapter": 15,
+      "text": "防盘或走步方面的违反规则行为属于违规（Infraction）。违规不会停止比赛。",
+      "original": "A breach of the rules regarding a Marking or Travel breach is an infraction. Infractions do not stop play."
+    },
+    {
+      "id": "15.3",
+      "chapter": 15,
+      "text": "其他违反规则的行为均属于违例（Violation）。",
+      "original": "Every other breach of the rules is a violation."
+    },
+    {
+      "id": "15.4",
+      "chapter": 15,
+      "text": "只有被犯规的队员可以通过喊“Foul”来提出犯规示意。",
+      "original": "Only the player fouled may claim a foul, by calling “Foul”."
+    },
+    {
+      "id": "15.5",
+      "chapter": 15,
+      "text": "通常只有持盘队员可以示意违规，示意时须喊出该违规的具体名称。",
+      "original": "In general only the thrower may claim an infraction, by calling the specific name of the infraction."
+    },
+    {
+      "id": "15.5.1",
+      "chapter": 15,
+      "text": "但是，任何进攻队员都可以示意“Double Team”，任何防守队员都可以示意“Travel”。",
+      "original": "However any offensive player may call a double team, and any defensive player may call a travel infraction."
+    },
+    {
+      "id": "15.6",
+      "chapter": 15,
+      "text": "任何对方队员都可以通过示意违例的具体名称或“Violation”来声明违例，除非特定规则另有规定。",
+      "original": "Any opposing player may claim a violation, by calling the specific name of the violation or \"Violation\", unless specified otherwise by the particular rule."
+    },
+    {
+      "id": "15.7",
+      "chapter": 15,
+      "text": "当犯规或违例示意导致比赛停止时，队员一旦得知该示意，必须立即通过可见或可听的方式传达比赛停止，并停止比赛；所有队员都应在场上转达示意。如果没有任何示意而因讨论停止比赛，则视为在讨论开始时已作出示意。",
+      "original": "When a foul or violation call is made that stops play, players must stop play by visibly or audibly communicating the stoppage as soon as they are aware of the call and all players should echo calls on the field. If play has stopped for a discussion without any call having been made, a call is deemed to have been made when the discussion started."
+    },
+    {
+      "id": "15.8",
+      "chapter": 15,
+      "text": "在识别到违反规则的行为后，必须立即做出示意。",
+      "original": "Calls must be made immediately after the breach is recognised."
+    },
+    {
+      "id": "15.9",
+      "chapter": 15,
+      "text": "队员错误地中断比赛后，按以下规则处理。错误中断包括听错示意、不懂规则，或未及时作出示意：",
+      "original": "After a player initiates a stoppage incorrectly, including after mishearing a call, not knowing the rules, or not making the call immediately:"
+    },
+    {
+      "id": "15.9.1",
+      "chapter": 15,
+      "text": "如果对方获得或保留盘权，随后的比赛结果有效。",
+      "original": "if the opposition gains or retains possession, any subsequent play stands."
+    },
+    {
+      "id": "15.9.2",
+      "chapter": 15,
+      "text": "如果对方未获得或保留盘权，飞盘须交回最后一名无争议的持盘队员；适用第 16.3 条时除外。",
+      "original": "if the opposition does not gain or retain possession, the disc must be returned to the last non- disputed thrower, unless 16.3 applies."
+    },
+    {
+      "id": "15.9.3",
+      "chapter": 15,
+      "text": "按错误中断比赛的队员作出了一次被接受的违反规则行为，恢复读秒。",
+      "original": "The stall count resumes as if an accepted breach has been caused by the player who initiated the stoppage incorrectly."
+    },
+    {
+      "id": "15.10",
+      "chapter": 15,
+      "text": "被示意犯规、违规或违例的队员，如不同意该行为发生，或认为示意不正确，可以喊“Contest”。",
+      "original": "If the player against whom the foul, infraction or violation has been called disagrees that it occurred, or does not think it is a correct call, they may call “Contest”."
+    },
+    {
+      "id": "15.11",
+      "chapter": 15,
+      "text": "作出示意的队员随后发现示意有误时，可以喊“Retracted”撤回。按该队员作出了一次被接受的违反规则行为，恢复比赛。",
+      "original": "If a player making any call subsequently determines that their call was incorrect, they can retract the call, by calling \"Retracted\". Play resumes as if an accepted breach has been caused by that player."
+    },
+    {
+      "id": "15.12",
+      "chapter": 15,
+      "text": "如果在同一次比赛行动中，或比赛停止前，发生了多项违反规则的行为，应按相反顺序处理结果（先处理最后发生的违反规则行为，最后处理最早发生的违反规则行为）。",
+      "original": "If multiple breaches occur on the same play or before play stops, the outcomes should be resolved in reverse sequence (latest breach first, earliest breach last)."
+    },
+    {
+      "id": "15.13",
+      "chapter": 15,
+      "text": "鼓励队员使用WFDF 手势来传达所有示意。",
+      "original": "Players are encouraged to use the WFDF Hand Signals to communicate all calls."
+    },
+    {
+      "id": "16.1",
+      "chapter": 16,
+      "text": "只要作出犯规或违例示意，或有队员以任何方式尝试停止比赛，比赛就立即停止，且不可能发生攻防转换（第 15.9、16.2、16.3 条规定的情形除外）。",
+      "original": "Whenever a foul or violation call is made, or a player attempts to stop play in any way, play stops immediately and no turnover is possible (unless in situations specified in 15.9, 16.2, and 16.3)."
+    },
+    {
+      "id": "16.2",
+      "chapter": 16,
+      "text": "犯规或违例出现以下任一情形时，比赛继续，直到建立盘权：",
+      "original": "If a foul or violation:"
+    },
+    {
+      "id": "16.2.1",
+      "chapter": 16,
+      "text": "示意针对持盘队员，且持盘队员尝试传盘。",
+      "original": "is called against the thrower and the thrower attempts a pass, or"
+    },
+    {
+      "id": "16.2.2",
+      "chapter": 16,
+      "text": "持盘队员在掷盘动作中作出示意。",
+      "original": "is called by the thrower during the act of throwing, or"
+    },
+    {
+      "id": "16.2.3",
+      "chapter": 16,
+      "text": "在飞盘腾空期间作出示意，或发生犯规、违例。",
+      "original": "is called or occurs when the disc is in the air, then play continues until possession has been established."
+    },
+    {
+      "id": "16.2.4",
+      "chapter": 16,
+      "text": "建立盘权后，按以下规则处理：",
+      "original": "Once possession has been established:"
+    },
+    {
+      "id": "16.2.4.1",
+      "chapter": 16,
+      "text": "如果作出犯规或违例示意的队伍因该次传盘获得或保留盘权，比赛结果有效。如果作出示意的队员尽快喊出“Play on”，比赛可以不中断地继续。",
+      "original": "If the team that called the foul or violation gains or retains possession as a result of the pass, the play stands. Play can continue without a stoppage if the player who made the foul or violation call makes a “Play on” call as soon as possible."
+    },
+    {
+      "id": "16.2.4.2",
+      "chapter": 16,
+      "text": "如果示意犯规或违例的队伍在传盘后没有获得或保持盘权，则比赛必须停止。",
+      "original": "If the team that called the foul or violation does not gain or retain possession as a result of the pass, play must be stopped."
+    },
+    {
+      "id": "16.2.4.2.1",
+      "chapter": 16,
+      "text": "如果示意犯规或违例的队伍认为盘权受到犯规或违例的影响，飞盘将回到持盘队员手中并验盘（除非具体规则另有规定）。",
+      "original": "If the team that called the foul or violation believes that possession has been affected by the foul or violation, the disc will be returned to the thrower for a check (unless the specific rule says otherwise)."
+    },
+    {
+      "id": "16.3",
+      "chapter": 16,
+      "text": "无论示意何时作出，只要双方相关队员都同意该事件或示意未影响结果，比赛结果就有效。本条不被任何其他规则取代。",
+      "original": "Regardless of when any call is made, if the players involved from both teams agree that the event or call did not affect the outcome, the play stands. This rule is not superseded by any other rule."
+    },
+    {
+      "id": "16.3.1",
+      "chapter": 16,
+      "text": "如果比赛结果是得分，则得分有效。",
+      "original": "If the play resulted in a goal, the goal stands."
+    },
+    {
+      "id": "16.3.2",
+      "chapter": 16,
+      "text": "如果比赛结果不是得分，受到影响的队员可以弥补由事件或示意造成的位置劣势，并通过验盘重新开始比赛。",
+      "original": "If the play did not result in a goal the affected players may make up any positional disadvantage caused by the event or call and restart play with a check."
+    },
+    {
+      "id": "17.1",
+      "chapter": 17,
+      "text": "危险动作：",
+      "original": "Dangerous Play:"
+    },
+    {
+      "id": "17.1.1",
+      "chapter": 17,
+      "text": "任何不顾其他队员安全的鲁莽行为，或对其他队员造成重大伤害风险的行为，或其他危险的攻击行为，均被视为危险动作，必须作为犯规处理，无论身体接触是否发生或何时发生。本条规则不被任何其他犯规规则取代。如果危险动作示意无争议，必须按照第17章中最相关的犯规处理。",
+      "original": "Actions demonstrating reckless disregard for the safety of fellow players, or posing significant risk of injury to fellow players, or other dangerously aggressive behaviours, are considered dangerous play and must be treated as a foul, regardless of whether or when contact occurs. This rule is not superseded by any other foul rule. If the dangerous play call is accepted, this must be treated as the most relevant foul from Section 17."
+    },
+    {
+      "id": "17.2",
+      "chapter": 17,
+      "text": "接盘犯规：",
+      "original": "Receiving Fouls:"
+    },
+    {
+      "id": "17.2.1",
+      "chapter": 17,
+      "text": "在任一队员尝试触盘之前、期间或紧接之后，一名队员主动与对手发生非轻微接触，即构成 Receiving Foul（接盘犯规）。",
+      "original": "A Receiving Foul occurs when a player initiates non-minor contact with an opponent before, while, or directly after, either player makes a play on the disc."
+    },
+    {
+      "id": "17.2.1.1",
+      "chapter": 17,
+      "text": "在飞盘被接住后，或对手已无法尝试触盘后，与对手手臂或手的接触不足以构成犯规，但应避免；第 17.1、17.3 条涉及的接触除外。",
+      "original": "Contact with an opponent’s arms or hands, that occurs after the disc has been caught, or after the opponent can no longer make a play on the disc, is not a sufficient basis for a foul, but should be avoided (excluding contact related to Section 17.1 and 17.3)."
+    },
+    {
+      "id": "17.2.2",
+      "chapter": 17,
+      "text": "接盘犯规无争议时，被犯规队员在犯规处获得盘权，即使该处在得分区内，并通过验盘恢复比赛。验盘后如适用第 14.3 条，须先在最近的得分线位置建立轴心点，才可开始读秒。犯规有争议时，飞盘交回持盘队员。",
+      "original": "After an accepted receiving foul the fouled player gains possession at the location of the breach, even if that location is in an end zone, and play restarts with a check. If, after the check, 14.3 applies, the stall count can not be started until a pivot point is established at the nearest location on the goal line. If the foul is contested, the disc is returned to the thrower."
+    },
+    {
+      "id": "17.3",
+      "chapter": 17,
+      "text": "夺权犯规：",
+      "original": "Strip Fouls:"
+    },
+    {
+      "id": "17.3.1",
+      "chapter": 17,
+      "text": "对手对一名队员犯规，导致该队员掉落已经接住的飞盘或失去盘权，即构成 Strip Foul（夺权犯规）。",
+      "original": "A Strip Foul occurs when an opponent fouls a player and that causes the player to drop a disc they caught or to lose possession of the disc."
+    },
+    {
+      "id": "17.3.2",
+      "chapter": 17,
+      "text": "如果没有该犯规，接盘本应得分，且该犯规无争议，则判定得分。",
+      "original": "If the reception would have otherwise been a goal, and the foul is accepted, a goal is awarded."
+    },
+    {
+      "id": "17.4",
+      "chapter": 17,
+      "text": "阻拦犯规：",
+      "original": "Blocking Fouls:"
+    },
+    {
+      "id": "17.4.1",
+      "chapter": 17,
+      "text": "阻拦犯规是指一名队员在考虑到对手基于其既定速度和方向所能达到的预期位置之后，仍占据了一个对手以合规方式移动无法避开的位置，并且造成了非轻微接触。这种情况应视为接盘犯规或间接犯规，具体视情况而定。",
+      "original": "A Blocking Foul occurs when a player takes a position that an opponent moving in a legal manner will be unable to avoid, taking into account the opponents expected position based on their established speed and direction, and non-minor contact results. This is to be treated as either a receiving foul or an indirect foul, whichever is applicable."
+    },
+    {
+      "id": "17.5",
+      "chapter": 17,
+      "text": "被迫出界犯规：",
+      "original": "Force-out Fouls:"
+    },
+    {
+      "id": "17.5.1",
+      "chapter": 17,
+      "text": "接盘队员在建立盘权过程中、尚未建立盘权时遭防守队员犯规，随后建立了盘权，且该接触造成以下任一结果，即构成 Force-out Foul（被迫出界犯规）：",
+      "original": "A Force-out Foul occurs when a receiver is in the process of establishing possession of the disc, and is fouled by a defensive player before subsequently establishing possession, and the contact caused the receiver:"
+    },
+    {
+      "id": "17.5.1.1",
+      "chapter": 17,
+      "text": "在界外而不是在界内接到飞盘。",
+      "original": "to catch the disc out-of-bounds instead of in-bounds; or"
+    },
+    {
+      "id": "17.5.1.2",
+      "chapter": 17,
+      "text": "在中心区接盘，而不是其进攻得分区接到飞盘。",
+      "original": "to catch the disc in the central zone instead of their attacking end zone."
+    },
+    {
+      "id": "17.5.2",
+      "chapter": 17,
+      "text": "如果接盘队员本会在本队进攻得分区内接住飞盘，则判定得分。",
+      "original": "If the receiver would have caught the disc in their attacking end zone, it is a goal;"
+    },
+    {
+      "id": "17.5.3",
+      "chapter": 17,
+      "text": "被迫出界犯规有争议时，如果接盘队员因此出界，飞盘交回持盘队员；否则，飞盘留在接盘队员手中。",
+      "original": "If the force-out foul is contested, the disc is returned to the thrower if the receiver became out- of-bounds, otherwise the disc stays with the receiver."
+    },
+    {
+      "id": "17.6",
+      "chapter": 17,
+      "text": "防盘犯规：",
+      "original": "Defensive Throwing (Marking) Fouls:"
+    },
+    {
+      "id": "17.6.1",
+      "chapter": 17,
+      "text": "出现以下任一情形，即构成防盘犯规：",
+      "original": "A Defensive Throwing Foul occurs when:"
+    },
+    {
+      "id": "17.6.1.1",
+      "chapter": 17,
+      "text": "持盘队员与违规站位的防守队员发生非轻微接触（见规则18.1条）。",
+      "original": "There is non-minor contact between the thrower and an illegally positioned defensive player (Section 18.1); or"
+    },
+    {
+      "id": "17.6.1.2",
+      "chapter": 17,
+      "text": "持盘队员传出飞盘前，防守队员主动与持盘队员发生非轻微接触，或持盘队员与防守队员同时争夺一个空位时发生非轻微接触。",
+      "original": "A defensive player initiates non-minor contact with the thrower, or there is non-minor contact resulting from the thrower and the defender both vying for the same unoccupied position, prior to the thrower releasing the pass."
+    },
+    {
+      "id": "17.6.1.3",
+      "chapter": 17,
+      "text": "如果防盘犯规发生在持盘队员传盘前而非传盘动作中，持盘队员可示意“Contact”。如果接触违规无争议，比赛不停止，防盘队员必须从1恢复读秒。",
+      "original": "If a Defensive Throwing Foul occurs prior to the thrower releasing the pass and not during the throwing motion, the thrower may choose to call a contact infraction, by calling “Contact”. After a contact infraction that is not contested, play does not stop and the marker must resume the stall count at one (1)."
+    },
+    {
+      "id": "17.7",
+      "chapter": 17,
+      "text": "进攻传盘（持盘队员）犯规：",
+      "original": "Offensive Throwing (Thrower) Fouls:"
+    },
+    {
+      "id": "17.7.1",
+      "chapter": 17,
+      "text": "持盘队员主动与处于合法位置的防守队员发生非轻微接触，且持盘队员对发起该接触负有全部责任，即构成 Offensive Throwing Foul（进攻传盘犯规）。",
+      "original": "An Offensive Throwing Foul occurs when the thrower is solely responsible for initiating non- minor contact with a defensive player who is in a legal position."
+    },
+    {
+      "id": "17.7.2",
+      "chapter": 17,
+      "text": "持盘队员出盘后随挥动作中的接触，不足以构成犯规，但应避免。",
+      "original": "Contact occurring during the thrower's follow through is not a sufficient basis for a foul, but should be avoided."
+    },
+    {
+      "id": "17.8",
+      "chapter": 17,
+      "text": "间接犯规：",
+      "original": "Indirect Fouls:"
+    },
+    {
+      "id": "17.8.1",
+      "chapter": 17,
+      "text": "间接犯规是接盘队员与防守队员之间发生了非轻微接触，但不直接影响尝试触盘。",
+      "original": "An Indirect Foul occurs when there is non-minor contact between a receiver and a defensive player that does not directly affect an attempt to make a play on the disc."
+    },
+    {
+      "id": "17.8.1.1",
+      "chapter": 17,
+      "text": "喊“Indirect Foul”前，队员可最多等待 2 秒，以判断该违反规则行为是否影响比赛。",
+      "original": "Prior to making the \"Indirect Foul\" call, the player may delay the call up to two (2) seconds to determine if the breach will affect the play."
+    },
+    {
+      "id": "17.8.2",
+      "chapter": 17,
+      "text": "如果间接犯规无争议，被犯规队员可弥补因犯规造成的位置劣势。",
+      "original": "If the foul is accepted the fouled player may make up any positional disadvantage caused by the foul."
+    },
+    {
+      "id": "17.9",
+      "chapter": 17,
+      "text": "抵消犯规：",
+      "original": "Offsetting Fouls:"
+    },
+    {
+      "id": "17.9.1",
+      "chapter": 17,
+      "text": "同一次比赛行动中，进攻与防守队员均示意了无争议的犯规时，这些犯规相互抵消，飞盘须交回最后一名无争议的持盘队员。",
+      "original": "If accepted fouls are called by offensive and defensive players on the same play, these are offsetting fouls, and the disc must be returned to the last non-disputed thrower."
+    },
+    {
+      "id": "17.9.2",
+      "chapter": 17,
+      "text": "如果两名或更多双方队员同时向同一位置移动时，造成了非轻微接触，则视为抵消犯规。",
+      "original": "If there is non-minor contact that is caused by two or more opposing players moving towards a single point simultaneously, this must be treated as offsetting fouls."
+    },
+    {
+      "id": "17.9.2.1",
+      "chapter": 17,
+      "text": "但如果该接触发生在飞盘被接住之后，或相关队员已无法尝试触盘，则此类情况应视为间接犯规（不包括第17.1条所述的接触）。",
+      "original": "However if this occurs after the disc has been caught, or after the relevant player/s involved can no longer make a play on the disc, this must be treated as an Indirect Foul (excluding contact related to Section 17.1)."
+    },
+    {
+      "id": "18.1",
+      "chapter": 18,
+      "text": "防盘违规：",
+      "original": "Marking Infractions:"
+    },
+    {
+      "id": "18.1.1",
+      "chapter": 18,
+      "text": "防盘违规包括以下情况：",
+      "original": "Marking infractions include the following:"
+    },
+    {
+      "id": "18.1.1.1",
+      "chapter": 18,
+      "text": "防盘队员出现以下任一情况，即构成“Fast Count”（读秒过快）：",
+      "original": "“Fast Count” – the marker:"
+    },
+    {
+      "id": "18.1.1.1.1",
+      "chapter": 18,
+      "text": "违规开始或继续读秒。",
+      "original": "starts or continues the stall count illegally,"
+    },
+    {
+      "id": "18.1.1.1.2",
+      "chapter": 18,
+      "text": "没有以“Stalling”开始或重新开始读秒。",
+      "original": "does not start or restart the stall count with “Stalling”,"
+    },
+    {
+      "id": "18.1.1.1.3",
+      "chapter": 18,
+      "text": "读秒间隔不足1秒。",
+      "original": "counts in less than one second intervals,"
+    },
+    {
+      "id": "18.1.1.1.4",
+      "chapter": 18,
+      "text": "在需要时没有正确减少读秒或重新开始读秒。",
+      "original": "does not correctly reduce or reset the stall count when required, or"
+    },
+    {
+      "id": "18.1.1.1.5",
+      "chapter": 18,
+      "text": "没有从正确的数字开始读秒。",
+      "original": "does not start the stall count from the correct number."
+    },
+    {
+      "id": "18.1.1.2",
+      "chapter": 18,
+      "text": "“Straddle”（跨越）：防守队员双脚之间的连线与持盘队员轴心点之间的距离小于一个飞盘直径。",
+      "original": "“Straddle” – a line between a defensive player’s feet comes within one disc diameter of the thrower’s pivot point."
+    },
+    {
+      "id": "18.1.1.3",
+      "chapter": 18,
+      "text": "“Disc Space”（间距过小）：防守队员身体任何部分与持盘队员躯干的距离小于一个飞盘直径。但是，如果这一情况完全由持盘队员的移动造成，则不构成违规。",
+      "original": "“Disc Space” – any part of a defensive player is less than one disc diameter away from the torso of the thrower. However, if this situation is caused solely by movement of the thrower, it is not an infraction."
+    },
+    {
+      "id": "18.1.1.4",
+      "chapter": 18,
+      "text": "“Wrapping”（包夹）：防守队员双手或双臂之间的连线与持盘队员躯干的距离小于一个飞盘直径，或防守队员身体任何部分位于持盘队员轴心点的上方。但是，如果这一情况完全由持盘队员的移动造成，则不构成违规。",
+      "original": "“Wrapping” – a line between a defensive player’s hands or arms comes within one disc diameter of the thrower’s torso, or any part of the defensive player’s body is above the thrower’s pivot point. However, if this situation is caused solely by movement of the thrower, it is not an infraction."
+    },
+    {
+      "id": "18.1.1.5",
+      "chapter": 18,
+      "text": "“Double Team”（双人防守）：除防盘队员以外的另一名防守队员处于持盘队员轴心点的 3 米范围内，却未同时防守另一名进攻队员。",
+      "original": "\"Double Team\" – a defensive player other than the marker is within three (3) metres of the thrower's pivot point without also guarding another offensive player."
+    },
+    {
+      "id": "18.1.1.5.1",
+      "chapter": 18,
+      "text": "只要防守队员仍然保持着对另一名进攻队员的防守，他可以尝试阻止持盘队员传盘。",
+      "original": "The defender guarding another offensive player can attempt to prevent a pass from the thrower, as long as they continue to guard another offensive player."
+    },
+    {
+      "id": "18.1.1.5.2",
+      "chapter": 18,
+      "text": "仅仅穿过该区域不是双人防守。",
+      "original": "Merely running across this area is not a double team."
+    },
+    {
+      "id": "18.1.1.6",
+      "chapter": 18,
+      "text": "“Vision”（遮挡视线）：防守队员故意使用身体任何部分遮挡持盘队员的视线。",
+      "original": "“Vision” – a defensive player uses any part of their body to intentionally obstruct the thrower’s vision."
+    },
+    {
+      "id": "18.1.2",
+      "chapter": 18,
+      "text": "防守队员可以对防盘违规提出异议，此时比赛将停止。",
+      "original": "A marking infraction may be contested by the defence, in which case play stops."
+    },
+    {
+      "id": "18.1.2.1",
+      "chapter": 18,
+      "text": "如果已经完成成功传盘，有争议或已撤回的防盘违规示意必须按进攻方违例处理，飞盘必须交回持盘队员。",
+      "original": "If a pass has been completed, a contested or retracted marking infraction must be treated as a violation by the offence, and the disc must be returned to the thrower."
+    },
+    {
+      "id": "18.1.3",
+      "chapter": 18,
+      "text": "发生第 18.1.1 条所列防盘违规后，如比赛未停止，防盘队员须从示意前最后完整读出的数字减 1 恢复读秒。",
+      "original": "After all marking infractions listed in 18.1.1 and where play has not stopped, the marker must resume the stall count with the number last fully uttered before the call, minus one (1)."
+    },
+    {
+      "id": "18.1.3.1",
+      "chapter": 18,
+      "text": "在不合法的站位全部纠正之前，防盘队员不得恢复读秒。否则构成又一次防盘违规。",
+      "original": "The marker must not resume counting until any illegal positioning has been corrected. To do otherwise is a subsequent marking infraction."
+    },
+    {
+      "id": "18.1.4",
+      "chapter": 18,
+      "text": "出现以下任一情况时，相关队员可以直接示意防盘违例，使比赛停止：",
+      "original": "Instead of calling a marking infraction, the relevant player may call a marking violation and stop play if;"
+    },
+    {
+      "id": "18.1.4.1",
+      "chapter": 18,
+      "text": "读秒没有纠正。",
+      "original": "the stall count is not corrected,"
+    },
+    {
+      "id": "18.1.4.2",
+      "chapter": 18,
+      "text": "没有在读秒。",
+      "original": "there is no stall count,"
+    },
+    {
+      "id": "18.1.4.3",
+      "chapter": 18,
+      "text": "严重的防盘违规。",
+      "original": "there is an egregious marking infraction, or"
+    },
+    {
+      "id": "18.1.4.4",
+      "chapter": 18,
+      "text": "存在反复发生的防盘违规行为。",
+      "original": "there is a pattern of repeated marking infractions."
+    },
+    {
+      "id": "18.1.5",
+      "chapter": 18,
+      "text": "如果示意了防盘违规或防盘违例，而持盘队员在示意之前、期间或之后也尝试了传盘，则该示意不产生处理后果（适用第 18.1.2.1 条时除外）；如果传盘不成功，攻防转换有效。",
+      "original": "If a marking infraction, or a marking violation, is called and the thrower also attempts a pass before, during or after the call, the call has no consequences (unless 18.1.2.1 applies) and if the pass is incomplete, then the turnover stands."
+    },
+    {
+      "id": "18.2",
+      "chapter": 18,
+      "text": "“Travel”违规",
+      "original": "“Travel” Infractions:"
+    },
+    {
+      "id": "18.2.1",
+      "chapter": 18,
+      "text": "在接住飞盘后，持盘队员必须在不改变方向的情况下尽快减速，直到建立轴心点。",
+      "original": "After catching the disc, the thrower must reduce speed as quickly as possible, without changing direction, until they have established a pivot point."
+    },
+    {
+      "id": "18.2.1.1",
+      "chapter": 18,
+      "text": "跑动或跳跃中接盘的队员，可以不减速、不建立轴心点就传盘，但须同时满足以下条件：",
+      "original": "However if a player catches the disc while running or jumping the player may release a pass without attempting to reduce speed and without establishing a pivot point, provided that:"
+    },
+    {
+      "id": "18.2.1.1.1",
+      "chapter": 18,
+      "text": "他们在传盘前没有改变方向或加速。",
+      "original": "they do not change direction or increase speed until they release the pass; and"
+    },
+    {
+      "id": "18.2.1.1.2",
+      "chapter": 18,
+      "text": "接盘后、出盘前，额外的触地点最多为两个。",
+      "original": "a maximum of two additional points of contact with the ground are made after the catch and before they release the pass."
+    },
+    {
+      "id": "18.2.2",
+      "chapter": 18,
+      "text": "持盘队员在传出飞盘前，只能通过建立并维持轴心点的方式（轴转）向任何方向移动。",
+      "original": "The thrower may move in any direction (pivot) only by establishing and maintaining a pivot point until releasing a pass."
+    },
+    {
+      "id": "18.2.3",
+      "chapter": 18,
+      "text": "如果持盘队员不是站立状态，可以用身体的任意部位作为轴心点。",
+      "original": "A thrower who is not standing can use any part of their body as the pivot point."
+    },
+    {
+      "id": "18.2.3.1",
+      "chapter": 18,
+      "text": "站起身本身不构成走步，但前提是在同一位置建立轴心点。",
+      "original": "If they stand up it is not a travel, but only if a pivot point is established at the same location."
+    },
+    {
+      "id": "18.2.4",
+      "chapter": 18,
+      "text": "以下任一情形构成走步违规：",
+      "original": "A travel infraction occurs if:"
+    },
+    {
+      "id": "18.2.4.1",
+      "chapter": 18,
+      "text": "持盘队员在错误的位置建立轴心点，包括接盘后没有尽快减速，或接盘后改变了方向。",
+      "original": "the thrower establishes a pivot point at an incorrect location, including by not reducing speed as quickly as possible after a catch, or changing direction after a catch;"
+    },
+    {
+      "id": "18.2.4.2",
+      "chapter": 18,
+      "text": "持盘队员在违反18.2.1.1的情况下传盘。",
+      "original": "the thrower releases a pass in breach of 18.2.1.1;"
+    },
+    {
+      "id": "18.2.4.3",
+      "chapter": 18,
+      "text": "凡持盘队员必须移动到某个指定位置时，其在预摆动作或掷盘动作开始前未建立轴心点。",
+      "original": "anytime the thrower must move to a specified location, the thrower does not establish a pivot point before a wind-up or throwing motion begins;"
+    },
+    {
+      "id": "18.2.4.4",
+      "chapter": 18,
+      "text": "持盘队员未能将已建立的轴心点保持至飞盘掷出。",
+      "original": "the thrower fails to keep the established pivot point until releasing a pass;"
+    },
+    {
+      "id": "18.2.4.5",
+      "chapter": 18,
+      "text": "队员仅为朝某个特定方向移动，而故意让飞盘在自己手中反复弹动、漏接或延迟接住。",
+      "original": "a player intentionally bobbles, fumbles or delays the disc to themselves, for the sole purpose of moving in a specific direction."
+    },
+    {
+      "id": "18.2.5",
+      "chapter": 18,
+      "text": "被接受的走步违规示意（“travel”）作出后，比赛不停止。",
+      "original": "After an accepted travel infraction is called (“travel”), play does not stop."
+    },
+    {
+      "id": "18.2.5.1",
+      "chapter": 18,
+      "text": "持盘队员须按示意走步者的指示，在正确位置建立轴心点；相关双方均不得拖延。",
+      "original": "The thrower establishes a pivot point at the correct location, as indicated by the player who called the travel. This must occur without delay from either player involved."
+    },
+    {
+      "id": "18.2.5.2",
+      "chapter": 18,
+      "text": "正确建立轴心点前，读秒暂停，持盘队员不得传盘。",
+      "original": "Any stall count is paused, and the thrower may not throw the disc, until a pivot point is established at the correct location."
+    },
+    {
+      "id": "18.2.5.3",
+      "chapter": 18,
+      "text": "防盘队员恢复读秒前不必说“Stalling”。",
+      "original": "The marker does not need to say “Stalling” before resuming the stall count."
+    },
+    {
+      "id": "18.2.6",
+      "chapter": 18,
+      "text": "如果在走步违规发生后、轴心点纠正前，持盘队员完成了一次成功传盘，防守方可以示意走步违例。比赛停止，飞盘交回持盘队员。持盘队员必须返回违规发生时所在的位置。比赛必须通过验盘重新开始。",
+      "original": "If, after a travel infraction but before correcting the pivot point, the thrower throws a completed pass, the defensive team may call a travel violation. Play stops and the disc is returned to the thrower. The thrower must return to the location occupied at the time of the infraction. Play must restart with a check."
+    },
+    {
+      "id": "18.2.7",
+      "chapter": 18,
+      "text": "如果在走步违规后，持盘队员传盘不成功，比赛继续进行。",
+      "original": "If, after a travel infraction, the thrower throws an incomplete pass, play continues."
+    },
+    {
+      "id": "18.2.8",
+      "chapter": 18,
+      "text": "若走步违规示意存在争议，且持盘队员未出盘，则比赛停止。",
+      "original": "After a contested travel infraction where the thrower has not released a pass, play stops."
+    },
+    {
+      "id": "18.3",
+      "chapter": 18,
+      "text": "“Pick”违例",
+      "original": "“Pick” Violations:"
+    },
+    {
+      "id": "18.3.1",
+      "chapter": 18,
+      "text": "如果一名防守队员正在防守一名进攻队员，且因另一名队员的妨碍而无法朝该进攻队员移动或跟随，则该防守队员可以示意“Pick”违例。但在阻挡发生的时候，如果被防守的进攻队员和造成阻碍的队员都在尝试触盘，则此情况不构成阻挡违例。",
+      "original": "If a defensive player is guarding one offensive player and they are prevented from moving towards/with that player by another player, that defensive player may call “Pick”. However it is not a pick if both the player being guarded and the obstructing player are making a play on the disc at the time of the obstruction."
+    },
+    {
+      "id": "18.3.1.1",
+      "chapter": 18,
+      "text": "喊“Pick”前，防守队员可最多等待 2 秒，以判断该阻碍是否影响比赛。",
+      "original": "Prior to making the \"Pick\" call, the defender may delay the call up to two (2) seconds to determine if the obstruction will affect the play."
+    },
+    {
+      "id": "18.3.2",
+      "chapter": 18,
+      "text": "比赛停止后，受阻队员可移到双方认可的、未发生阻挡时原本应处的位置；规则另有规定时除外。",
+      "original": "If play has stopped, the obstructed player may move to the agreed position they would have otherwise occupied if the obstruction had not occurred, unless specified otherwise."
+    },
+    {
+      "id": "18.3.3",
+      "chapter": 18,
+      "text": "所有队员应努力避免阻挡违例发生。",
+      "original": "All players should take reasonable efforts to avoid the occurrence of picks."
+    },
+    {
+      "id": "18.3.3.1",
+      "chapter": 18,
+      "text": "在比赛中断期间，双方队员可协商适度调整位置，避免可能发生的阻挡。",
+      "original": "During any stoppage opposing players may agree to slightly adjust their locations to avoid potential picks."
+    },
+    {
+      "id": "19.1",
+      "chapter": 19,
+      "text": "受伤中断",
+      "original": "Injury Stoppage"
+    },
+    {
+      "id": "19.1.1",
+      "chapter": 19,
+      "text": "受伤中断（“Injury”）可由受伤的场上队员本人，或其同队的任何场上队员示意。",
+      "original": "An injury stoppage, “Injury”, may be called by the injured player, or by any player on the injured player’s team."
+    },
+    {
+      "id": "19.1.2",
+      "chapter": 19,
+      "text": "如果受伤不是由对方队员造成的，则受伤队员必须选择被替换或使用本方队伍一次暂停。",
+      "original": "If the injury was not caused by an opponent, the player must choose either to be substituted, or to charge their own team with a time-out."
+    },
+    {
+      "id": "19.1.3",
+      "chapter": 19,
+      "text": "如果受伤是由对方队员造成的，受伤队员可以选择继续比赛或被替换。",
+      "original": "If the injury was caused by an opponent, the player may choose to stay or to be substituted."
+    },
+    {
+      "id": "19.1.4",
+      "chapter": 19,
+      "text": "受伤队员已经建立盘权、随后因伤掉盘的，保留盘权。",
+      "original": "If the injured player had established possession of the disc, and the player has dropped the disc due to the injury, that player retains possession of the disc."
+    },
+    {
+      "id": "19.1.5",
+      "chapter": 19,
+      "text": "受伤中断的示意时间按受伤时刻认定；但受伤队员在作出中断示意前选择继续比赛的除外。",
+      "original": "The injury stoppage is considered to have been called at the time of the injury, unless the injured player chooses to continue play before the stoppage is called."
+    },
+    {
+      "id": "19.1.6",
+      "chapter": 19,
+      "text": "如果示意受伤中断时飞盘在空中，比赛继续，直到一名队员建立盘权或飞盘触地。如果受伤并非由对手犯规造成，则成功传盘或攻防转换的结果有效，中断后比赛从该处重新开始。",
+      "original": "If the disc was in the air when the injury stoppage was called, play continues until either a player establishes possession, or the disc hits the ground. If the injury is not the result of a foul by an opponent, the completion or turnover stands, and play restarts there after the stoppage."
+    },
+    {
+      "id": "19.2",
+      "chapter": 19,
+      "text": "技术中断",
+      "original": "Technical Stoppage"
+    },
+    {
+      "id": "19.2.1",
+      "chapter": 19,
+      "text": "任何队员发现危及队员安全的情况，包括队员有开放性或流血的伤口，都应喊“technical”或“stop”以示意技术中断。比赛必须立即停止。",
+      "original": "Any player who recognises a condition that endangers players, including if a player has an open or bleeding wound, should call a technical stoppage by calling “technical” or “stop”. Play must stop immediately."
+    },
+    {
+      "id": "19.2.1.1",
+      "chapter": 19,
+      "text": "队友、教练或指定的赛事官员，应主动提醒队员注意任何危及队员安全的情况。",
+      "original": "A team-mate, coach, or designated official, should actively alert players to any condition that endangers players."
+    },
+    {
+      "id": "19.2.1.2",
+      "chapter": 19,
+      "text": "有开放性或流血伤口问题的队员，有 70 秒时间有效处理该问题。如果需要更多时间，必须选择被替换，或使用本队一次暂停。",
+      "original": "A player who has an issue regarding an open or bleeding wound has seventy (70) seconds to effectively address the issue. If they need additional time to address the issue, they must choose either to be substituted, or to charge their own team with a time-out."
+    },
+    {
+      "id": "19.2.2",
+      "chapter": 19,
+      "text": "持盘队员可在比赛中示意技术中断，以更换严重损坏的飞盘。",
+      "original": "The thrower may call a technical stoppage during play to replace a severely damaged disc."
+    },
+    {
+      "id": "19.2.3",
+      "chapter": 19,
+      "text": "如果示意技术中断时飞盘在空中或比赛在不知情的情况下继续进行：",
+      "original": "After a technical stoppage called while the disc is in the air, or if play has continued unknowingly:"
+    },
+    {
+      "id": "19.2.3.1",
+      "chapter": 19,
+      "text": "如果示意或问题未影响比赛，成功传盘或攻防转换的结果有效，比赛从该处重新开始。",
+      "original": "If the call or issue did not affect play, the completion or turnover stands, and play restarts there;"
+    },
+    {
+      "id": "19.2.3.2",
+      "chapter": 19,
+      "text": "如果该示意或事件影响了比赛，飞盘应回到持盘队员手中。",
+      "original": "If the call or issue did affect the play, the disc goes back to the thrower."
+    },
+    {
+      "id": "19.3",
+      "chapter": 19,
+      "text": "如果队员因受伤、装备不符合规定或装备损坏被替换，对方队伍也可以选择替换一名队员。",
+      "original": "If a player is substituted after an injury, or due to illegal or faulty equipment, the opposing team may also choose to substitute one player."
+    },
+    {
+      "id": "19.3.1",
+      "chapter": 19,
+      "text": "替换上场的队员将继承被替换队员的全部比赛状态（如位置、盘权、读秒等），并且可以代其进行示意。",
+      "original": "Substitute players take on the full state (location, possession, stall count etc) of the player they are substituting and may make a call on their behalf."
+    },
+    {
+      "id": "20.1",
+      "chapter": 20,
+      "text": "示意暂停的队员必须用双手，或一只手与飞盘，组成“T”形，并应向对方队员喊“time-out”。",
+      "original": "The player calling a time-out must form a \"T\" with their hands, or with one hand and the disc, and should call \"time-out\" to opposition players."
+    },
+    {
+      "id": "20.2",
+      "chapter": 20,
+      "text": "回合开始后，只要双方尚未都示意准备就绪，任意一队的队员均可示意暂停。该暂停将回合开始至随后开盘的间隔延长 75 秒。",
+      "original": "After the start of a point and before both teams have signalled readiness, a player from either team may call a time-out. The time-out extends the time between the start of the point and subsequent pull by seventy-five (75) seconds."
+    },
+    {
+      "id": "20.3",
+      "chapter": 20,
+      "text": "开盘后，只有拥有盘权的持盘队员可以示意暂停。暂停从做出“T”形手势时开始，持续 75 秒。暂停结束后：",
+      "original": "After the pull only a thrower with possession of the disc may call a time-out. The time-out starts when the “T” is formed, and lasts seventy-five (75) seconds. After such a time-out:"
+    },
+    {
+      "id": "20.3.1",
+      "chapter": 20,
+      "text": "除受伤外，不允许进行队员替换。",
+      "original": "Substitutions are not allowed, except for injury."
+    },
+    {
+      "id": "20.3.2",
+      "chapter": 20,
+      "text": "比赛在持盘队员的轴心位置重新开始。",
+      "original": "Play is restarted at the pivot location."
+    },
+    {
+      "id": "20.3.3",
+      "chapter": 20,
+      "text": "持盘队员必须与暂停前一致。",
+      "original": "The thrower must remain the same."
+    },
+    {
+      "id": "20.3.4",
+      "chapter": 20,
+      "text": "其他进攻队员可以在任何位置落位并必须保持静止。",
+      "original": "All other offensive players must establish a stationary position, at any location."
+    },
+    {
+      "id": "20.3.5",
+      "chapter": 20,
+      "text": "进攻方确定落位后，防守方可以在任何位置落位并必须保持静止。",
+      "original": "Once the offensive players have selected positions, defensive players must then establish a stationary position, at any location."
+    },
+    {
+      "id": "20.3.6",
+      "chapter": 20,
+      "text": "最多从 9 恢复读秒。如果更换了防盘队员，则从“Stalling one (1)”重新开始。",
+      "original": "The stall count restarts at maximum nine (9). However if the marker has been switched, the stall count restarts at “Stalling one (1)”."
+    },
+    {
+      "id": "20.4",
+      "chapter": 20,
+      "text": "如果持盘队员在活盘状态下尝试示意暂停，而本队已无剩余暂停次数，则比赛停止。在通过验盘重新开始比赛前，防盘队员必须在原本应恢复的读秒数值上加二（2）。如果由此达到十（10）或更高，则发生“stall-out”攻防转换。",
+      "original": "If the thrower attempts to call a time-out while play is live and when their team has no remaining time- outs, play is stopped. The marker must add two (2) seconds to the stall count they would have restarted play on before restarting play with a check. If this results in a stall count of ten (10) or above, this is a \"stall-out\" turnover."
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def-1",
+      "term": "Act of throwing",
+      "title": "掷盘行为",
+      "text": "参见 Throwing motion（掷盘动作）。"
+    },
+    {
+      "id": "def-2",
+      "term": "Affect the play",
+      "title": "影响比赛",
+      "text": "如果可以合理地认为，若某次违反规则行为或示意没有发生，该次比赛行动的结果可能会有实质性差别，那么该行为或示意就影响了比赛。"
+    },
+    {
+      "id": "def-3",
+      "term": "Attacking end zone",
+      "title": "进攻得分区",
+      "text": "相关队伍当前尝试得分的得分区。"
+    },
+    {
+      "id": "def-4",
+      "term": "Best perspective",
+      "title": "最佳视角",
+      "text": "队员能够获得的最完整视角，其中包括该次比赛行动所涉及的飞盘、地面、队员与场地界线标记的相对位置。"
+    },
+    {
+      "id": "def-5",
+      "term": "Call",
+      "title": "示意",
+      "text": "清晰传达的一项声明，表明发生了犯规、违规、违例、攻防转换或受伤。可使用以下术语：Foul、Travel、具体的 Marking Infraction 名称、Violation（或具体违例名称）、具体的攻防转换名称、Technical，以及 Injury。"
+    },
+    {
+      "id": "def-6",
+      "term": "Catch",
+      "title": "接盘",
+      "text": "用至少两个身体部位夹住一个不再旋转的飞盘。\n如果队员最初接住传盘，但在建立盘权之前未能保持接盘状态（“保持接盘状态”是指持续用至少两个身体部位夹住不再旋转的飞盘），则该次最初的接盘被视为已经结束。"
+    },
+    {
+      "id": "def-7",
+      "term": "Central zone",
+      "title": "中心区",
+      "text": "比赛场地中包含得分线、但不包含得分区与边界线的区域。"
+    },
+    {
+      "id": "def-8",
+      "term": "Defending end zone",
+      "title": "防守得分区",
+      "text": "相关队伍当前尝试阻止对方得分的得分区。"
+    },
+    {
+      "id": "def-9",
+      "term": "Defensive player",
+      "title": "防守队员",
+      "text": "所属队伍不拥有盘权的任何场上队员。"
+    },
+    {
+      "id": "def-10",
+      "term": "End zone",
+      "title": "得分区",
+      "text": "比赛场地两端的两个区域之一；队伍可以通过在该区域内接盘而得分。"
+    },
+    {
+      "id": "def-11",
+      "term": "Goal line",
+      "title": "得分线",
+      "text": "将中心区与每个得分区分开的线。得分线不属于得分区。"
+    },
+    {
+      "id": "def-12",
+      "term": "Ground",
+      "title": "地面",
+      "text": "地面包括所有实质物体，包括草地、角标、装备、水、树木、围栏、墙壁以及非场上队员；但不包括所有场上队员及其穿戴的服装、空中悬浮颗粒和降水。"
+    },
+    {
+      "id": "def-13",
+      "term": "Ground contact",
+      "title": "触地",
+      "text": "队员与地面之间、直接关联某个特定事件或动作的全部接触，包括落地，或失去平衡后的恢复过程（例如跳跃、飞扑、倾身或跌倒）。"
+    },
+    {
+      "id": "def-14",
+      "term": "Guarding",
+      "title": "防守",
+      "text": "当防守队员位于某名进攻队员 3 米以内，并且主要关注该进攻队员、对其作出反应时，该防守队员就在防守这名进攻队员。"
+    },
+    {
+      "id": "def-15",
+      "term": "Interception",
+      "title": "截获",
+      "text": "防守方队员对进攻方队员掷出的飞盘建立盘权。"
+    },
+    {
+      "id": "def-16",
+      "term": "Legitimate position",
+      "title": "合法位置",
+      "text": "队员在不违反任何规则的情况下建立的静止或移动位置。"
+    },
+    {
+      "id": "def-17",
+      "term": "Line",
+      "title": "线",
+      "text": "界定比赛区域的边界。在没有划线的场地上，边界是两个场地标记物之间的假想连线，线宽与这些标记物的宽度相同。线段不延伸到界定它的标记物之外。"
+    },
+    {
+      "id": "def-18",
+      "term": "Making a play on the disc",
+      "title": "尝试触盘",
+      "text": "当飞盘在空中时，队员正在尝试以任何方式接触飞盘，例如接住或拦截飞盘。这包括向其预计会接触飞盘的位置跑动的过程。"
+    },
+    {
+      "id": "def-19",
+      "term": "Marker",
+      "title": "防盘队员",
+      "text": "可以对持盘队员执行读秒的防守队员。"
+    },
+    {
+      "id": "def-20",
+      "term": "Minor contact",
+      "title": "轻微接触",
+      "text": "施加的身体作用力很小，且不改变另一名队员的动作或位置的接触。\n与对手已经伸出、正要接触或正在接触飞盘的手臂或手发生接触，或在掷盘动作中接触持盘队员的手，均不属于轻微接触。"
+    },
+    {
+      "id": "def-21",
+      "term": "Non-player",
+      "title": "非场上队员",
+      "text": "当前并非场上队员的任何人，包括队伍成员。"
+    },
+    {
+      "id": "def-22",
+      "term": "Offensive player",
+      "title": "进攻队员",
+      "text": "所属队伍拥有盘权的场上队员。"
+    },
+    {
+      "id": "def-23",
+      "term": "Out-of-bounds (OB)",
+      "title": "界外",
+      "text": "不属于比赛场地的一切，包括边界线。"
+    },
+    {
+      "id": "def-24",
+      "term": "Perimeter lines",
+      "title": "边界线",
+      "text": "将中心区或得分区与界外区域分开的线。边界线不属于比赛场地。"
+    },
+    {
+      "id": "def-25",
+      "term": "Pivot",
+      "title": "轴转",
+      "text": "持盘队员向任意方向移动，同时保持身体的一部分始终接触地面上一个称为轴心点（pivot point）的特定点。\n持盘队员将身体某一特定部位放在或保持在地面上的某个特定点，并打算以该点作为轴心点，即建立轴心点。\n如果持盘队员有多个可选的轴心点，则要到其轴转时才确定轴心点。"
+    },
+    {
+      "id": "def-26",
+      "term": "Pivot Location",
+      "title": "轴心位置",
+      "text": "比赛场地上持盘队员在攻防转换后、开盘后、暂停后、离开中心区后必须建立轴心点的位置，或轴心点已经建立的位置。"
+    },
+    {
+      "id": "def-27",
+      "term": "Play",
+      "title": "比赛行动",
+      "text": "从开盘开始到得分之前的时段。该时段也可能因示意而中断，此时须通过 Check 重新开始比赛。"
+    },
+    {
+      "id": "def-28",
+      "term": "Player",
+      "title": "场上队员",
+      "text": "实际参加当前比赛回合的人。"
+    },
+    {
+      "id": "def-29",
+      "term": "Playing Field",
+      "title": "比赛场地",
+      "text": "包含中心区与得分区，但不包含边界线的区域。"
+    },
+    {
+      "id": "def-30",
+      "term": "Possession of the disc",
+      "title": "盘权",
+      "text": "队员在同时满足以下条件时，对传盘建立盘权：\n• 接住传盘，并持续保持接盘状态超过一个可辨识的瞬间。\n• 在所有与接盘相关的触地过程中保持接盘状态，或者保持到其掷出飞盘。\n队员也可在攻防转换、开盘或中断后，通过捡起已经触地的飞盘，或由他人将该飞盘交给自己，而建立盘权。\n一旦建立盘权，只要继续与飞盘保持接触，队员就可以改变握盘方式而不影响盘权。\n队员拥有盘权或已经接住的飞盘，视为该队员的一部分。\n拥有盘权的队员所属的队伍，或队员有权捡起飞盘的队伍，被视为拥有盘权的队伍。"
+    },
+    {
+      "id": "def-31",
+      "term": "Pre-stall",
+      "title": "预读秒",
+      "text": "对恢复比赛时限的警告，根据适用情况，在二十（20）、十（10）和五（5）秒时发出。"
+    },
+    {
+      "id": "def-32",
+      "term": "Pull",
+      "title": "开盘",
+      "text": "每个半场开始时或得分后，由防守方向进攻方掷出的、用于开始比赛的飞盘。Pull 不被视为合法传盘。"
+    },
+    {
+      "id": "def-33",
+      "term": "Receivers",
+      "title": "接盘队员",
+      "text": "除持盘队员之外的所有进攻队员。"
+    },
+    {
+      "id": "def-34",
+      "term": "Spirit Stoppage",
+      "title": "飞盘精神中断",
+      "text": "为讨论与 Spirit of the Game 相关问题而进行的中断。"
+    },
+    {
+      "id": "def-35",
+      "term": "Stoppage of play",
+      "title": "比赛中断",
+      "text": "因犯规、违例、讨论、有争议的示意、受伤或暂停而停止比赛，并且需要通过 Check 重新开始比赛的情况。"
+    },
+    {
+      "id": "def-36",
+      "term": "Throw",
+      "title": "掷盘／传盘",
+      "text": "在任何掷盘动作之后飞行、并使持盘队员与飞盘失去接触的飞盘，包括假动作之后的飞盘，以及被故意丢下的飞盘。\nPass 与 Throw 含义相同。"
+    },
+    {
+      "id": "def-37",
+      "term": "Thrower",
+      "title": "持盘队员",
+      "text": "拥有盘权的进攻队员，或刚掷出飞盘、但该次掷盘结果尚未确定的队员。"
+    },
+    {
+      "id": "def-38",
+      "term": "Throwing motion",
+      "title": "掷盘动作",
+      "text": "持盘队员将朝向飞盘飞行方向的动量传递给飞盘，并形成掷盘的动作。轴转与预摆动作（wind-ups）不属于掷盘行为。"
+    },
+    {
+      "id": "def-39",
+      "term": "Turnover",
+      "title": "攻防转换",
+      "text": "任何导致拥有盘权的队伍发生改变的事件。Turnover 不被视为违例。"
+    },
+    {
+      "id": "def-40",
+      "term": "Where the disc stops",
+      "title": "飞盘停止位置",
+      "text": "队员建立盘权的位置、飞盘自然停止的位置，或飞盘被阻止继续滚动或滑行的位置。"
+    }
+  ],
+  "legalLicense": [
+    "本作品《WFDF Rules of Ultimate 2025-2028》及所有相关 WFDF 规则文件，依据 Creative Commons Attribution 4.0（知识共享署名 4.0 国际许可，CC BY 4.0）授权。许可人及原作者为 World Flying Disc Federation（世界飞盘联合会），一家在美国科罗拉多州注册的非营利法人。以下为法律条款的便于理解的概要（完整许可可见 Appendix G）。",
+    "你可以：复制、分发、展示及表演本作品；制作演绎作品；将本作品用于商业用途。",
+    "条件如下：必须以作者或许可人指定的方式署名；任何再使用或分发，都必须向他人明确本作品的许可条款；取得 WFDF 许可后，上述条件可以被豁免。",
+    "合理使用及其他权利不受上述条款影响。"
+  ]
+}
